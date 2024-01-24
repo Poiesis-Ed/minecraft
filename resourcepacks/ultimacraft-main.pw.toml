@@ -1,0 +1,13 @@
+name = "UltimaCraft"
+filename = "ultimacraft-main-1-4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DH3mBsnJ/versions/UDhKwj4Q/ultimacraft-main-1-4.zip"
+hash-format = "sha1"
+hash = "0f59dcde7ce4f3c0e7c279b69430936e2d5650d6"
+
+[update]
+[update.modrinth]
+mod-id = "DH3mBsnJ"
+version = "UDhKwj4Q"
