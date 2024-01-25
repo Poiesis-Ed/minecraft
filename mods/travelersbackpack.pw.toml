@@ -1,0 +1,13 @@
+name = "Traveler's Backpack"
+filename = "TravelersBackpack-1.19.2-8.2.38.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/SZ8pohLr/TravelersBackpack-1.19.2-8.2.38.jar"
+hash-format = "sha1"
+hash = "607073d9062c7846fe6fbf1e6e0ed6470e1a6858"
+
+[update]
+[update.modrinth]
+mod-id = "rlloIFEV"
+version = "SZ8pohLr"

@@ -1,0 +1,13 @@
+name = "Extended block shapes"
+filename = "extshape-forge-2.0.5-mc1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tb7kCxSW/versions/BKKNnM8u/extshape-forge-2.0.5-mc1.19.2.jar"
+hash-format = "sha1"
+hash = "4164807c68e47dfe6378fc0d055b235ba6843773"
+
+[update]
+[update.modrinth]
+mod-id = "tb7kCxSW"
+version = "BKKNnM8u"

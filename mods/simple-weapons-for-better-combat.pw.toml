@@ -1,0 +1,13 @@
+name = "Simple Weapons for Better Combat"
+filename = "Simple Weapons 1.4.2 - 1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/La4e8zkH/versions/J7FpMRTn/Simple%20Weapons%201.4.2%20-%201.19.2.jar"
+hash-format = "sha1"
+hash = "50995f4f17066b2fedae263ff0fac99ef4cd60ba"
+
+[update]
+[update.modrinth]
+mod-id = "La4e8zkH"
+version = "J7FpMRTn"
