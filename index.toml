@@ -465,6 +465,11 @@ hash = "395187b6dffe299b4491e9a71109b9bed1261426ea1cabadc8679ebb6c4b0388"
 metafile = true
 
 [[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "c099922d35787f4e8ec9f687fcae211b072975e5c1ccbf984544f529d45a70c9"
+metafile = true
+
+[[files]]
 file = "mods/simple-weapons-for-better-combat.pw.toml"
 hash = "4287e003d462529cc72b80fad661432061adf58c5f9761e77bbca56ef7a1cceb"
 metafile = true
