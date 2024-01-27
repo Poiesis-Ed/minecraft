@@ -235,11 +235,6 @@ hash = "ab6d5c5981eb90445718e5224c7e92a04e4f180373b11fc944d7dce43c704318"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
-metafile = true
-
-[[files]]
 file = "mods/fishermens-trap.pw.toml"
 hash = "9742b6a045a1a7662b9892d0253babc0b390928aa101c9271ab1780825779514"
 metafile = true
@@ -252,11 +247,6 @@ metafile = true
 [[files]]
 file = "mods/galosphere.pw.toml"
 hash = "7aedf0a040f4320ac3e97634819992259a8aa78f714fa7f7c4ca7ae982afb140"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "cd78d571bf4a7e90cf67e1bfaa868bb2fecf396eff126b2313ff846ae834ed68"
 metafile = true
 
 [[files]]
