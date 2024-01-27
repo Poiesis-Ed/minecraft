@@ -1,0 +1,13 @@
+name = "Enchanting Infuser"
+filename = "EnchantingInfuser-v4.2.2-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ePv85y52/versions/9UD54Pev/EnchantingInfuser-v4.2.2-1.19.2-Forge.jar"
+hash-format = "sha1"
+hash = "a8ceca208c90dfb57180ba29df68b3c7a8009109"
+
+[update]
+[update.modrinth]
+mod-id = "ePv85y52"
+version = "9UD54Pev"

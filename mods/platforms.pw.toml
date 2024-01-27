@@ -1,0 +1,13 @@
+name = "Platforms"
+filename = "platforms-forge-1.19-1.10.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xIF7nCgD/versions/AymMIr4c/platforms-forge-1.19-1.10.7.jar"
+hash-format = "sha1"
+hash = "5a9431bece5bc16931f7241abface57d70092bcb"
+
+[update]
+[update.modrinth]
+mod-id = "xIF7nCgD"
+version = "AymMIr4c"

@@ -1,0 +1,13 @@
+name = "Iron's Spells 'n Spellbooks"
+filename = "irons_spellbooks-1.19.2-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s4OWxYQQ/versions/o59Bw0yT/irons_spellbooks-1.19.2-2.2.1.jar"
+hash-format = "sha1"
+hash = "07bab49ebcc2de52f8ded763b6987f1c8752e1bd"
+
+[update]
+[update.modrinth]
+mod-id = "s4OWxYQQ"
+version = "o59Bw0yT"

@@ -1,13 +1,13 @@
 name = "FerriteCore"
-filename = "ferritecore-6.0.1-fabric.jar"
+filename = "ferritecore-5.0.3-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/uXXizFIs/versions/CtXsUUz6/ferritecore-5.0.3-forge.jar"
 hash-format = "sha1"
-hash = "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa"
+hash = "59245ec84ca1e3639237f5a04fe6f7556a9ec2bb"
 
 [update]
 [update.modrinth]
 mod-id = "uXXizFIs"
-version = "unerR5MN"
+version = "CtXsUUz6"

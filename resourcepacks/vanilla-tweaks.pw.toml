@@ -1,0 +1,7 @@
+name = "Vanilla Tweaks"
+filename = "VanillaTweaks_r579446.zip"
+
+[download]
+url = "https://repo.poiesis.education/mods/VanillaTweaks_r579446.zip"
+hash-format = "sha256"
+hash = "9bba6f3bfdd192540d79ff74ea5196e66e1432c6a62cc9ffaaa15d70d30d1154"
