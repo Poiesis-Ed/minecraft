@@ -250,6 +250,11 @@ hash = "7aedf0a040f4320ac3e97634819992259a8aa78f714fa7f7c4ca7ae982afb140"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "f4472b39e794d2c687042eb9795dcdb6bc7d3c88620e2e38cfa6e4983fa7767b"
 metafile = true
