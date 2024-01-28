@@ -5,11 +5,6 @@ file = "README.md"
 hash = "350c8137568dddb6decfc200b75efc47466062cb2fef781a2a032692409bb470"
 
 [[files]]
-file = "mods/additional-structures.pw.toml"
-hash = "6031301092c6f4f74046fd6958c6cda8923f6d93c8b9551db80f7e0b10c19428"
-metafile = true
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "d01aa30f2773b3dcb3414c42f41b941becb8152a3300be6230b5593fa1c7b496"
 metafile = true
@@ -35,11 +30,6 @@ hash = "e06965d8aea5dee2531377f962616b4843f3af7d5bea5b213a0b257f4595af0f"
 metafile = true
 
 [[files]]
-file = "mods/armor-remover.pw.toml"
-hash = "3a0308dc121b78fc49f810e261fca2f63f27bbf267e24dee544f65b922acbfec"
-metafile = true
-
-[[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "aa8ff6a05cb7ec70198cb696b844f5c9fdb5a7c3159352b9be35feedd76b2a19"
 metafile = true
@@ -62,11 +52,6 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "6efd7a1efa69ba7dfa003088ba91b9735e815572ea7e465a7be07bca80f72502"
-metafile = true
-
-[[files]]
-file = "mods/biomesyougo.pw.toml"
-hash = "0ba03334053447703ef0bd73fd19fa6d3a3ca7bab0b0a193cc397a603de8acb0"
 metafile = true
 
 [[files]]
@@ -115,11 +100,6 @@ hash = "fe2b1cb8e815ed0fb5fbc46cb808411237f1694dce52f87242a1798fffcfc558"
 metafile = true
 
 [[files]]
-file = "mods/connected-glass.pw.toml"
-hash = "e52dc7cdbcf6c54813e18c09780822f4be775d8b80e4a39417b48661032c40b7"
-metafile = true
-
-[[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "2015d20f522326afdb9005e3aeede79ea9ffaf5b3072274ae14c077943b62033"
 metafile = true
@@ -150,11 +130,6 @@ hash = "73b933d38189720dbdbfd1f2f1a83231fd99d844a217fb90408809ac7a12445b"
 metafile = true
 
 [[files]]
-file = "mods/create-structures.pw.toml"
-hash = "e427c13317e4be2a5e404a732282c3df15d1cd3c2db37a8e56b5026cbb98ab70"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "8f7b16bd319a4c534acbc80f83e4359b756b301c76444d5a0afa1d1cb45d20a4"
 metafile = true
@@ -172,11 +147,6 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "85c48053799956d7c0a905d6d44c64991b8564467efe7bdf053deb9dca20f7ac"
-metafile = true
-
-[[files]]
-file = "mods/easy-anvils.pw.toml"
-hash = "98cd4ec5c05f16d6440520cab6780d4fdc9d78b7a5f0d6e4146aa38cc88d3c5e"
 metafile = true
 
 [[files]]
@@ -235,18 +205,8 @@ hash = "ab6d5c5981eb90445718e5224c7e92a04e4f180373b11fc944d7dce43c704318"
 metafile = true
 
 [[files]]
-file = "mods/fishermens-trap.pw.toml"
-hash = "9742b6a045a1a7662b9892d0253babc0b390928aa101c9271ab1780825779514"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "c9ef346647b6d4ed7417f27768461cae6496449b74258b6d81c560e95259c9dd"
-metafile = true
-
-[[files]]
-file = "mods/galosphere.pw.toml"
-hash = "7aedf0a040f4320ac3e97634819992259a8aa78f714fa7f7c4ca7ae982afb140"
 metafile = true
 
 [[files]]
@@ -272,11 +232,6 @@ metafile = true
 [[files]]
 file = "mods/idas.pw.toml"
 hash = "c5cc662513953a95db0fc0c8d98186d1f1100478683520ed112f2cae64ea84e6"
-metafile = true
-
-[[files]]
-file = "mods/immersive-armors.pw.toml"
-hash = "30e1086c8c1e9b3c09b5b8031f9497802ff1220ac5e522eec151465a0fdba5af"
 metafile = true
 
 [[files]]
@@ -390,11 +345,6 @@ hash = "5e3c1bece72d73338583e26b5018819b10eada276ebc07af41d1417f7f8d8d0e"
 metafile = true
 
 [[files]]
-file = "mods/platforms.pw.toml"
-hash = "7b6af85f9b4e6c4e7d05cd8ad72da3978f70cc79d9d75eb59834e9beb3157b94"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "d6c0f05a4982b73b78910bd95f917bb8a934f4f233d218a3ccc22ea7ecc8bf55"
 metafile = true
@@ -412,11 +362,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "827b361fcddfa0bdb84bfa0ebf0e1a38b139804c92aaf9e39218d784e4111fb4"
-metafile = true
-
-[[files]]
-file = "mods/quark-oddities.pw.toml"
-hash = "90560337b2ad996abe8d1fb74130972b83ff9954d1742bbcc1a8588aa5628528"
 metafile = true
 
 [[files]]
@@ -457,11 +402,6 @@ metafile = true
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "c099922d35787f4e8ec9f687fcae211b072975e5c1ccbf984544f529d45a70c9"
-metafile = true
-
-[[files]]
-file = "mods/simple-weapons-for-better-combat.pw.toml"
-hash = "4287e003d462529cc72b80fad661432061adf58c5f9761e77bbca56ef7a1cceb"
 metafile = true
 
 [[files]]
@@ -555,18 +495,8 @@ hash = "3f285efd86db37d6f60ecf1c1a8513d86197e189d6e0eb71fa0484f09d61cc86"
 metafile = true
 
 [[files]]
-file = "mods/upgrade-aquatic.pw.toml"
-hash = "4af196b775f5a6dd0856428384e1cf881ed6145c12d137d48b560caefed92a2c"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "45951d2101d05815db6dec9940bff29ab8429d98e74d53d72cf2c7a61c360668"
-metafile = true
-
-[[files]]
-file = "mods/when-dungeons-arise.pw.toml"
-hash = "69305dd5539decb11f0dcd0056b959a9fd6428121bd945b27e7b181e63f6aa52"
 metafile = true
 
 [[files]]
