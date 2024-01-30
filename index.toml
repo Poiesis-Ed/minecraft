@@ -353,10 +353,6 @@ file = "config/xaeroworldmap.txt"
 hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
-file = "kubejs/client_scripts/example.js"
-hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
-
-[[files]]
 file = "kubejs/config/client.properties"
 hash = "30dd03e417c761eb6ef29f48a0fe3344c6bf09e39f86671362f915a3f735f096"
 
@@ -367,10 +363,6 @@ hash = "f3d00b57ea166c4abc7950df3304e3fd89ace46a3fae469e3de04773bb69ae74"
 [[files]]
 file = "kubejs/server_scripts/crafting.js"
 hash = "231c9e4845d1c7402530ad4cbc28faa76ea179ffa57db0098d0ca147da9cb1db"
-
-[[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/ae2.pw.toml"
