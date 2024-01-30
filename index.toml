@@ -362,7 +362,7 @@ hash = "b18543354182540d936e1c6e231a40a415ae77716d463b6b1c308096b3efbaca"
 
 [[files]]
 file = "kubejs/server_scripts/crafting.js"
-hash = "3b1052b5c58425d51acaa09e05b969ce05dae6c57796ea271471f418a7ea05cb"
+hash = "e053a44b53c6d70f3f982355e7d9ee3b460290404ed2c4d9a4c400933f0bba0e"
 
 [[files]]
 file = "mods/ae2.pw.toml"

@@ -52,4 +52,28 @@ ServerEvents.recipes(event => {
   // nuke antiprotonic nucleosynthesizer recipe
   event.remove({ output: 'mekanism:antiprotonic_nucleosynthesizer' })
 
+
+  // -- tempads -- //
+  event.remove({ output: "tempad:tempad" })
+  
+  event.shaped('1x tempad:tempad', [
+    'RTR',
+    'TBT',
+    'RTR'
+  ], {
+    R: 'mekanism:alloy_atomic',
+    T: 'mekanism:ultimate_control_circuit',
+    B: 'mekanism:teleportation_core'
+  }) // basic tempad
+
+  event.shaped('1x tempad:he_who_remains_tempad', [
+    'RNR',
+    'TBT',
+    'RTR'
+  ], {
+    R: 'mekanism:ultimate_control_circuit',
+    T: 'minecraft:crying_obsidian',
+    N: 'minecraft:nether_star',
+    B: 'tempad:tempad'
+  }) // advanced tempad
 })
