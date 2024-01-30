@@ -1,0 +1,260 @@
+{
+  "entries": [
+    {
+      "item": "enderio:copper_alloy_ingot",
+      "emc": 384
+    },
+    {
+      "item": "enderio:energetic_alloy_ingot",
+      "emc": 2496
+    },
+    {
+      "item": "minecraft:emerald",
+      "emc": 0
+    },
+    {
+      "item": "fluxnetworks:flux_dust",
+      "emc": 64
+    },
+    {
+      "item": "mekanism:pellet_polonium",
+      "emc": 50152
+    },
+    {
+      "item": "create:zinc_ingot",
+      "emc": 256
+    },
+    {
+      "item": "createaddition:electric_motor",
+      "emc": 1028
+    },
+    {
+      "item": "create:precision_mechanism",
+      "emc": 2048
+    },
+    {
+      "item": "create:brass_ingot",
+      "emc": 192
+    },
+    {
+      "item": "create:brass_sheet",
+      "emc": 192
+    },
+    {
+      "item": "create:copper_sheet",
+      "emc": 128
+    },
+    {
+      "item": "create:iron_sheet",
+      "emc": 256
+    },
+    {
+      "item": "create:golden_sheet",
+      "emc": 2048
+    },
+    {
+      "item": "createaddition:zinc_sheet",
+      "emc": 256
+    },
+    {
+      "item": "create:copper_casing",
+      "emc": 160
+    },
+    {
+      "item": "create:brass_casing",
+      "emc": 224
+    },
+    {
+      "item": "create:andesite_casing",
+      "emc": 120
+    },
+    {
+      "item": "ae2:certus_quartz_dust",
+      "emc": 128
+    },
+    {
+      "item": "ae2:certus_quartz_crystal",
+      "emc": 128
+    },
+    {
+      "item": "ae2:silicon",
+      "emc": 256
+    },
+    {
+      "item": "ae2:printed_silicon",
+      "emc": 256
+    },
+    {
+      "item": "ae2:printed_calculation_processor",
+      "emc": 128
+    },
+    {
+      "item": "ae2:calculation_processor",
+      "emc": 448
+    },
+    {
+      "item": "ae2:printed_engineering_processor",
+      "emc": 8192
+    },
+    {
+      "item": "ae2:engineering_processor",
+      "emc": 8512
+    },
+    {
+      "item": "ae2:charged_certus_quartz_crystal",
+      "emc": 128
+    },
+    {
+      "item": "ae2:fluix_crystal",
+      "emc": 448
+    },
+    {
+      "item": "ae2:printed_logic_processor",
+      "emc": 2048
+    },
+    {
+      "item": "ae2:logic_processor",
+      "emc": 2368
+    },
+    {
+      "item": "ae2:sky_stone_block",
+      "emc": 256
+    },
+    {
+      "item": "ae2:sky_dust",
+      "emc": 256
+    },
+    {
+      "item": "ae2:singularity",
+      "emc": 256000
+    },
+    {
+      "item": "ae2:matter_ball",
+      "emc": 256
+    },
+    {
+      "item": "tempad:tempad",
+      "emc": 8096
+    },
+    {
+      "item": "waystones:warp_stone{Damage:0}",
+      "emc": 4224
+    },
+    {
+      "item": "enderio:vibrant_alloy_ingot",
+      "emc": 3520
+    },
+    {
+      "item": "enderio:redstone_alloy_ingot",
+      "emc": 320
+    },
+    {
+      "item": "enderio:silicon",
+      "emc": 256
+    },
+    {
+      "item": "enderio:conductive_alloy_ingot",
+      "emc": 704
+    },
+    {
+      "item": "enderio:pulsating_alloy_ingot",
+      "emc": 1280
+    },
+    {
+      "item": "enderio:dark_steel_ingot",
+      "emc": 448
+    },
+    {
+      "item": "enderio:soularium_ingot",
+      "emc": 448
+    },
+    {
+      "item": "enderio:end_steel_ingot",
+      "emc": 512
+    },
+    {
+      "item": "enderio:grains_of_infinity",
+      "emc": 1
+    },
+    {
+      "item": "enderio:vibrant_crystal",
+      "emc": 3128
+    },
+    {
+      "item": "enderio:clear_glass_ea",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_em",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_ep",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_enp",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_ena",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_enm",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_da",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_dm",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_dp",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_dnp",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_dna",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_dnm",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_a",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_m",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_p",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_np",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_na",
+      "emc": 1
+    },
+    {
+      "item": "enderio:clear_glass_nm",
+      "emc": 1
+    },
+    {
+      "item": "enderio:photovoltaic_plate",
+      "emc": 3744
+    }
+  ]
+}
