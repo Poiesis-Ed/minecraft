@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/cadmus.pw.toml"
-hash = "8d3885635d6558a7829e81bf13b7408f93b697055baec3c0b99495f37b28b4f0"
+hash = "90165200040ed24a7b8f25ea9f19e4715491b3d31c657196982a91bd557c6cdf"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a8d1c2c0b6a2759bad40371344a53f2046c535b95eb303ee910f5ab97a348c3d"
+hash = "3de2843a7072f8e7308ba53b1ac2b3f1a38312d4acf69d5cf116c9ac684f3778"
 metafile = true
 
 [[files]]
