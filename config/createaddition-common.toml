@@ -3,10 +3,13 @@
 [wires]
 	#Small Connector max output in FE/t (Energy transfer).
 	#Range: > 0
-	small_connector_max_output = 1000
+	small_connector_max_output = 1024
 	#Small Connector max input in FE/t (Energy transfer).
 	#Range: > 0
-	small_connector_max_input = 1000
+	small_connector_max_input = 1024
+	#Small Connector With Light energy consumption in FE/t.
+	#Range: > 0
+	small_light_connector_consumption = 1
 	#Large Connector max wire length in blocks.
 	#Range: 0 ~ 256
 	large_connector_wire_length = 32
@@ -15,12 +18,12 @@
 	small_connector_wire_length = 16
 	#Large Connector max input in FE/t (Energy transfer).
 	#Range: > 0
-	large_connector_max_input = 5000
+	large_connector_max_input = 4096
 	#Allows blocks attached to a connector to freely pass energy to and from the connector network.
 	connector_allow_passive_io = true
 	#Large Connector max output in FE/t (Energy transfer).
 	#Range: > 0
-	large_connector_max_output = 5000
+	large_connector_max_output = 4096
 	#Ignore checking if block face can support connector.
 	connector_ignore_face_check = true
 
@@ -34,6 +37,8 @@
 	#Forge Energy conversion rate (in FE/t at 256 RPM, value is the FE/t generated and consumed is at 256rpm).
 	#Range: > 0
 	fe_at_max_rpm = 480
+	#If audio should be enabled or not.
+	audio_enabled = true
 
 #Portable Energy Interface
 [portable_energy_interface]
