@@ -321,11 +321,6 @@ hash = "d9968d6500c4052633307714bdb3044ae29deefdc1548c6aba16fa36e5697e22"
 metafile = true
 
 [[files]]
-file = "mods/effortless-building.pw.toml"
-hash = "a0c86423073eeea3231cfc31b6b53f7e30c55a3332f3b7151dac9fe00213e78f"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "b814fff06b977987df71b2e0fd8a4f68439a88c5ec5dd843ad59638beabc2f3a"
 metafile = true
