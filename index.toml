@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/burnt.pw.toml"
-hash = "dd338a3b258a56effd49147489ec165fdcfdc817c6af268072b894eb6a4ea627"
+hash = "c4cca43f28c9c1bc4e66d7f181d5245e69977c24d08d433f93e737c1df3f7473"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/effortless-building.pw.toml"
-hash = "7eb58ad09d2b09c0cd820d90da5b6b04682a6ae6676b4b1850d105c3675309b4"
+hash = "02681d348a883427b758957444f675d9ed821a17408a2f9c32dc257af13c1b6b"
 metafile = true
 
 [[files]]
