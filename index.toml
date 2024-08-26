@@ -506,11 +506,6 @@ hash = "0c168aaa4238b7bc3a124e93a0eb76b068ad04f308fb6539012edd487ec7a011"
 metafile = true
 
 [[files]]
-file = "mods/journey-pac.pw.toml"
-hash = "1d111a29ce85a87bc5c8dd4e9f2f12dfe6b63477cfbebb8aeca7650c0f8abdaa"
-metafile = true
-
-[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "9da3c3ee66453579523127d0cbeffde27dd0eaf1bb9ae3017805d475451c2e53"
 metafile = true
@@ -807,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "a1c537c66ec9d58304aed8b9b73f4e5c83a7a69e323ff1270b7b64f80c7e7dba"
+hash = "8ecaeac6f1a8ac1163686bea4795894ee51600f2f49d8b427c395ccd15dcd3a8"
 metafile = true
 
 [[files]]
