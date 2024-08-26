@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobweb.pw.toml"
-hash = "5a9d378eb47bc15a82d522f415ad0713a95dc63402f660355c429e45db74ea43"
+hash = "0eac2160f9f252888dde9f5e524ec8d4cfb1dde7f9cc0606899f4386ed7782d3"
 metafile = true
 
 [[files]]
@@ -802,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "8ecaeac6f1a8ac1163686bea4795894ee51600f2f49d8b427c395ccd15dcd3a8"
+hash = "640c3885bce6e23c6e86a2cd30d98b234c92194cf78344bd1810d39e35f3e487"
 metafile = true
 
 [[files]]
