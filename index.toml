@@ -511,11 +511,6 @@ hash = "1d111a29ce85a87bc5c8dd4e9f2f12dfe6b63477cfbebb8aeca7650c0f8abdaa"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "cdc72b21651fa04953f146cb8acc6193c16a6d231f53bf9e66d7999625faef54"
-metafile = true
-
-[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "9da3c3ee66453579523127d0cbeffde27dd0eaf1bb9ae3017805d475451c2e53"
 metafile = true
