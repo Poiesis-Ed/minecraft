@@ -1,0 +1,13 @@
+name = "Ice And Fire Patcher"
+filename = "iaf_patcher-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5ajMogiG/versions/5GY7D72a/iaf_patcher-0.1.2.jar"
+hash-format = "sha1"
+hash = "cf6bf3ae73723f6b6bb93b980a1611677a9e078c"
+
+[update]
+[update.modrinth]
+mod-id = "5ajMogiG"
+version = "5GY7D72a"

@@ -1,0 +1,13 @@
+name = "Burnt"
+filename = "burnt-1.7.3-forge-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tsc9D2wh/versions/nWjoJCYM/burnt-1.7.3-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "eb8a15833bd0a8060731a921d3626a361c781519"
+
+[update]
+[update.modrinth]
+mod-id = "tsc9D2wh"
+version = "nWjoJCYM"

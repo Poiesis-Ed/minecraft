@@ -1,0 +1,13 @@
+name = "Finally Farmable Dyes"
+filename = "finallyfarmabledyes-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s2OXJvtB/versions/3BNUVCQ1/finallyfarmabledyes-1.20.1-1.2.2.jar"
+hash-format = "sha1"
+hash = "8755db6c972d3870dfcefab9a5e7e1792d9f886d"
+
+[update]
+[update.modrinth]
+mod-id = "s2OXJvtB"
+version = "3BNUVCQ1"

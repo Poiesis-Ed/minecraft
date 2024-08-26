@@ -1,0 +1,13 @@
+name = "Building But Better"
+filename = "bbb-1.20.1-forge-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OSDpLd82/versions/zGMhmLYb/bbb-1.20.1-forge-1.1.1.jar"
+hash-format = "sha1"
+hash = "3fef65f2180f5657c89f1d6848c9dd2017872894"
+
+[update]
+[update.modrinth]
+mod-id = "OSDpLd82"
+version = "zGMhmLYb"

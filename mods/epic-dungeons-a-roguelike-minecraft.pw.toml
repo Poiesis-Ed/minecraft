@@ -1,0 +1,13 @@
+name = "Epic Dungeons: A Roguelike Minecraft"
+filename = "Epic Dungeons-0.1.04-Forge-1.19-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iAwGa4r9/versions/5S6XCkrM/Epic%20Dungeons-0.1.04-Forge-1.19-1.20.1.jar"
+hash-format = "sha1"
+hash = "43255ceb607040c997b09a2d4d50e728f8726355"
+
+[update]
+[update.modrinth]
+mod-id = "iAwGa4r9"
+version = "5S6XCkrM"

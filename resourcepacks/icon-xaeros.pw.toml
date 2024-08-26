@@ -1,0 +1,13 @@
+name = "Icon Xaero's"
+filename = "Icon Xaero's 1.14HF 1.20-1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LWGq2eg6/versions/FUGd7HKW/Icon%20Xaero%27s%201.14HF%201.20-1.20.1.zip"
+hash-format = "sha1"
+hash = "023b3469d81985b26960d1c4e7d0e599f700d0d6"
+
+[update]
+[update.modrinth]
+mod-id = "LWGq2eg6"
+version = "FUGd7HKW"

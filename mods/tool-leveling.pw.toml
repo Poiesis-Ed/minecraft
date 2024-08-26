@@ -1,0 +1,13 @@
+name = "Tool Leveling+"
+filename = "toolleveling-forge-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I8oNjZdJ/versions/dXbqhg13/toolleveling-forge-1.20.1-2.0.0.jar"
+hash-format = "sha1"
+hash = "cbb6bafc1712da227086e4259f84c58371b7850d"
+
+[update]
+[update.modrinth]
+mod-id = "I8oNjZdJ"
+version = "dXbqhg13"
