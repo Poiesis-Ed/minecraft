@@ -116,6 +116,11 @@ hash = "e856e65f33ff1746f365f10eb3c5a26515d74837577fb05c3b25d8debcd22198"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "8023989ea674b490fbf84daac15359f628457c22f1702db8655f3c576e7f5b10"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
@@ -363,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "7826b93c7f36611fbd9190481774daa349fa403875f8522d0ca4302e1345bd40"
+metafile = true
+
+[[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "0e2f681845283e7bd4e9b9fbd368d51667709a0a5d8cd1c131183310085f044b"
 metafile = true
 
 [[files]]
