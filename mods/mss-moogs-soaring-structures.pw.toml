@@ -1,0 +1,13 @@
+name = "MSS - Moog's Soaring Structures"
+filename = "mss-1.1.2-1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/RJCLIx7k/versions/99AxpUyz/mss-1.1.2-1.20.jar"
+hash-format = "sha1"
+hash = "56c7ec7082993285ec9510c2dba15605b3862ec5"
+
+[update]
+[update.modrinth]
+mod-id = "RJCLIx7k"
+version = "99AxpUyz"
