@@ -556,6 +556,11 @@ hash = "706cd603362fec004317ab9882101c71a27e5634d058b516c5d87fc1ddc48636"
 metafile = true
 
 [[files]]
+file = "mods/squaremap.pw.toml"
+hash = "3be54a68c79bcb17c02f547acc356ba15df75568fe8391e4d082630493eca7d5"
+metafile = true
+
+[[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
 metafile = true
