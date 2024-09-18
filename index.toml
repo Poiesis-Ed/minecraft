@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/bettercombat/client.json5"
+hash = "d15a19be18dce9939bbf5839b003fe33dffd7af16b68b1432f6f22098816ba55"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "75ff33cfc76420df7d34e6f35cac8823dfe2a9b75e0332f651eb67a8999299ac"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "6edf4b253f23fdc6d35fd839171fa6e3bc36456c139db19fdc4a269ead7fbe26"
+
+[[files]]
+file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.2.2.zip.txt"
+hash = "948ff186e2f58b7f7a76d68883c712aa55e5f42bc5ed3f779ffe2466b9f8dc91"
+
+[[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "611eabdbd20a918d55e648b024d6c961fd6774de3ce014739871886d1bebd131"
 metafile = true
@@ -98,11 +114,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "a10e9b8d3794518c6a1cc3f27a5624ab2f28a0ff9bde0bb0bf2aa4e16569b6b2"
 metafile = true
 
 [[files]]
@@ -378,6 +389,21 @@ metafile = true
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "4328ca91b7661092d85beba0ecb45170ec6c1329520325757884f864160bbe67"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols-extra.pw.toml"
+hash = "563a2484af46ebe381f606733cce8e75450dc8de141a115bb82120ddfc47d535"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "73f61928771e93dd5f8951d7e7c513609b01271860f152c33b3ca3e2c114686d"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
 metafile = true
 
 [[files]]
