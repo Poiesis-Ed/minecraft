@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
-description = "Allows you to render far more of the world than usual. Only install on Windows! This mod prevents startup on Linux and MacOS."
+description = "Allows you to render far more of the world than usual. Only install on Windows! This mod causes crashes on Linux and MacOS."
 
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/xbRHd92j/DistantHorizons-2.1.0-a-1.20.1.jar"

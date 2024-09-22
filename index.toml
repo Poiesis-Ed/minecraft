@@ -428,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c6d4020aa88b306b8db66863cf659f904857a96b24ecd1956da08b00e943ba9a"
+hash = "74ac3f7f185945dd5f92c2cf22991a002f1f1b59ccf6bf5f907c7bda4bad66a1"
 metafile = true
 
 [[files]]
@@ -599,16 +599,6 @@ metafile = true
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries-squared.pw.toml"
-hash = "a9f42da476b08dc408c50e16182e434d035fef0bf05cba0fb34dd9f9ea992932"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "97acb27ee8b31a8877f74d9376a5e2d6c81b54a3359c85e9d3cb545050b98481"
 metafile = true
 
 [[files]]
