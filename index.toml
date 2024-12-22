@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-clouds.pw.toml"
-hash = "fa96a04ad053f4b7c97f6b2f31e75e678e7b7062745affe77b3e85c4a4cf1372"
+hash = "1a6fb5a110c7759a031d3ac84ba809b87842e2be3f6e005cd96a17262eedb090"
 metafile = true
 
 [[files]]
