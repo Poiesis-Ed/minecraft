@@ -11,3 +11,8 @@ hash = "9be26bc7b8eb16aaf99491f10427fe5079e9a2e0e0ab72693252a6ff8e13b93ec1c42648
 [update.modrinth]
 mod-id = "LtZfKhel"
 version = "rTj593Ky"
+
+[option]
+optional = true
+default = false
+description = "Better clouds. Turn off if you're on a mac."
