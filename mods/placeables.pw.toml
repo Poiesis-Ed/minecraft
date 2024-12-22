@@ -1,6 +1,6 @@
 name = "Placeables"
 filename = "Placeables 1.9.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/I140DzGY/versions/h99FpC5y/Placeables%201.9.2.jar"

@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeables.pw.toml"
-hash = "52175284e4aabd525fdce0fc3e6cd8ccc96c74d63b9d705b7debb200aecd429d"
+hash = "cc288a6991ae56913f3bf5292a0fd6cc17c4ecf8bf128675c219035ad5fd15a6"
 metafile = true
 
 [[files]]
