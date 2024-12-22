@@ -1,0 +1,13 @@
+name = "TFC Volcanoes"
+filename = "TFCVolcanoes-1.20.1-1.3.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rQG4GU1V/versions/egVcVZO3/TFCVolcanoes-1.20.1-1.3.16.jar"
+hash-format = "sha512"
+hash = "122d096caaa3d21b1dcb0078fd5d165706d5caf9e8a115863d0d95339cd430190fdd678a79ce382bdcc4c0fccd1326548aac196293b948e714f905c4f7249a09"
+
+[update]
+[update.modrinth]
+mod-id = "rQG4GU1V"
+version = "egVcVZO3"

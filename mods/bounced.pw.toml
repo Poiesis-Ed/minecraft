@@ -1,0 +1,13 @@
+name = "Bounced"
+filename = "bounced-4.1.0-forge1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2mlOZXZr/versions/Bs89Y9yL/bounced-4.1.0-forge1.20.1.jar"
+hash-format = "sha512"
+hash = "2c1dfa3d78ba9d693c5eb29ac07b9b9898d2f5b63720f1c29d9a58d111a1743b8773b9ef45fec175273c51d4f35f477584dd976a1fc3955c00f205f988371175"
+
+[update]
+[update.modrinth]
+mod-id = "2mlOZXZr"
+version = "Bs89Y9yL"

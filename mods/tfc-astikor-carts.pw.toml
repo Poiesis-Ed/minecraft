@@ -1,0 +1,13 @@
+name = "TFC Astikor Carts"
+filename = "TFCAstikorCarts-1.20.1-1.1.8.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q7dNt3PU/versions/UVsPFqtl/TFCAstikorCarts-1.20.1-1.1.8.3.jar"
+hash-format = "sha512"
+hash = "6f2cfc309ba735f1bb423be39a19b1e726b96238d2ac81e93ea55dc10d9c08652d48c16eacb17c9a8cb466904b0c478702b4a35004665a908d986a3cfdf173be"
+
+[update]
+[update.modrinth]
+mod-id = "Q7dNt3PU"
+version = "UVsPFqtl"

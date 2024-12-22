@@ -1,0 +1,13 @@
+name = "Dynamites Overhaul"
+filename = "dynamites_overhaul-1.0206-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o5oOazmm/versions/AwNIlsEG/dynamites_overhaul-1.0206-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "ae862cdc82a1e6aac1d100dcc065fe260aed6bbe2080df1e9e2e4fcdbc34b52cb6e01bfe0a97b5a2af1551fbf4204c84c8e9bedc8817b9830b32321dc2338e26"
+
+[update]
+[update.modrinth]
+mod-id = "o5oOazmm"
+version = "AwNIlsEG"

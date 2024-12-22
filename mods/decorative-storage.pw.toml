@@ -1,0 +1,13 @@
+name = "[❄WINTER] Decorative Storage"
+filename = "decorative_storage-2.1212-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DLpaTTzJ/versions/QA8eQJeD/decorative_storage-2.1212-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "9d03d32233ae641c10d7ac65a6bebe765cd3ddcd3b87fdb1786fc09cee4accc9d9a1ff7ef92d62654e966366c24aaa5f20d7f5603106b34efeeef3f612279ae6"
+
+[update]
+[update.modrinth]
+mod-id = "DLpaTTzJ"
+version = "QA8eQJeD"

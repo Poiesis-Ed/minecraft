@@ -1,0 +1,13 @@
+name = "Butchery"
+filename = "butcher-2.7.8-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6YfOmC9t/versions/PzxeidO8/butcher-2.7.8-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "49be32b778df0af205b9afe240c582e0d5b2a9ccf0e49374b47a47660afc3ef6aaec0d6db34927e9284f3685b5b791fabd193e54cc8262540b0e3b1e63652aaa"
+
+[update]
+[update.modrinth]
+mod-id = "6YfOmC9t"
+version = "PzxeidO8"

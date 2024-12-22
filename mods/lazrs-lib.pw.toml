@@ -1,0 +1,13 @@
+name = "Lazr's Lib"
+filename = "Lazr's Lib-1.20-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hOqZCnXu/versions/vyEgTAmT/Lazr%27s%20Lib-1.20-1.1.1.jar"
+hash-format = "sha512"
+hash = "0a0c7fdf0ab5e9715c8823a42081f2ec095287a01e7b1e575f08ba8b314423eb4dcebfc1775fcddc4392337b779bd9c1d34cba44eb47da22279c6de3def2c70e"
+
+[update]
+[update.modrinth]
+mod-id = "hOqZCnXu"
+version = "vyEgTAmT"
