@@ -14,5 +14,5 @@ version = "rTj593Ky"
 
 [option]
 optional = true
-default = false
+default = true
 description = "Better clouds. Turn off if you're on a mac."
