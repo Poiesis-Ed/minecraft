@@ -516,11 +516,6 @@ hash = "deb6a86a338bf791cb972b3371b6a58581f1f5cb3442d5b81f927459a0baeb85"
 metafile = true
 
 [[files]]
-file = "mods/placeables.pw.toml"
-hash = "cc288a6991ae56913f3bf5292a0fd6cc17c4ecf8bf128675c219035ad5fd15a6"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
