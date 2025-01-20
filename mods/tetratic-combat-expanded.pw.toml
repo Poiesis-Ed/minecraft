@@ -1,0 +1,13 @@
+name = "Tetratic Combat Expanded"
+filename = "tetratic-combat-expanded-1.20-2.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gKU2sJEW/versions/O1S7PKYL/tetratic-combat-expanded-1.20-2.8.2.jar"
+hash-format = "sha512"
+hash = "5a11bf39df0eb612c8ef5a6fccd634527e6fb6e9e524faddd005a937351d293116fca95d082ba89ff6a51522cf6b5b7e0dfa733b764c4845a12d3370ec9bd610"
+
+[update]
+[update.modrinth]
+mod-id = "gKU2sJEW"
+version = "O1S7PKYL"

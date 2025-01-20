@@ -1,0 +1,13 @@
+name = "Via Romana: Infrastructure-Driven Fast Travel"
+filename = "Via_Romana-1.20.1-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FVToiKwr/versions/mUpvUDAw/Via_Romana-1.20.1-1.2.4.jar"
+hash-format = "sha512"
+hash = "5d858ab5a5135d2605d3d09911dcf6bdc54a52554b10e0070d08032c5ad83875f69467d122fa1d3dca71f4aee58a81f7c3d350fc84601810aaf8c3f4507a06a1"
+
+[update]
+[update.modrinth]
+mod-id = "FVToiKwr"
+version = "mUpvUDAw"

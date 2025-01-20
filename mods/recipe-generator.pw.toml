@@ -1,0 +1,13 @@
+name = "Recipe Generator"
+filename = "recipe_generator-0.2.3.1_release-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uQorKjjW/versions/rmLDCYr3/recipe_generator-0.2.3.1_release-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "8deecbc02d882fa41f8fa55099acd4ad7ca52fd5d9aa77803f0390787f9274c34537a31972dc86896c375e97f1f3f51681fb6c23525e78a177c5a517b73ec193"
+
+[update]
+[update.modrinth]
+mod-id = "uQorKjjW"
+version = "rmLDCYr3"

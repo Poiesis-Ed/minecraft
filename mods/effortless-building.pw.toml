@@ -1,0 +1,13 @@
+name = "Effortless Building"
+filename = "effortlessbuilding-1.20.1-3.9-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DYtfQEYj/versions/X5rAmk4T/effortlessbuilding-1.20.1-3.9-all.jar"
+hash-format = "sha512"
+hash = "9fad3b5906cb9841d5d6ee9805757596114d97c74eb9f5e0148ebd84a94ec8d0d7ee9b1bb67a17adc0129951399e2795cd4ef3db2ac490028aab28a29e585bb0"
+
+[update]
+[update.modrinth]
+mod-id = "DYtfQEYj"
+version = "X5rAmk4T"

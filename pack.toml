@@ -1,12 +1,13 @@
-name = "poiesis"
+name = "poiesis-official"
+author = "poiesis"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "afd6c7401f19e8f63a19745a40a78ed4f169a51b837906826547dbee302ceb78"
+hash = "b5f8bd303e4198193f1728493499d1323d14563bb86e8acc2005b253dc1afd65"
 
 [versions]
-forge = "47.3.12"
+forge = "47.3.22"
 minecraft = "1.20.1"

@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:elytra{Damage:0}",
+      "emc": 50152
+    },
+    {
+      "item": "minecraft:totem_of_undying",
+      "emc": 16128
+    },
+    {
+      "item": "ae2:charged_certus_quartz_crystal",
+      "emc": 256
+    },
+    {
+      "item": "mekanism:pellet_polonium",
+      "emc": 16000
+    }
+  ]
+}

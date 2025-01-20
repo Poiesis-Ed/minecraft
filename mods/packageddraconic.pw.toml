@@ -1,0 +1,13 @@
+name = "PackagedDraconic"
+filename = "PackagedDraconic-1.20.1-3.1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dNduUQBR/versions/hbmqAjoB/PackagedDraconic-1.20.1-3.1.1.5.jar"
+hash-format = "sha512"
+hash = "3f404b924e4fd67dcc65ddc5711320578a06338acb98f971aa5278e377c9b87dc8bcd8398dc8e5624c08730a7af2db32c1c509269b2038d53ed2ff36f4cf366f"
+
+[update]
+[update.modrinth]
+mod-id = "dNduUQBR"
+version = "hbmqAjoB"
