@@ -74,7 +74,7 @@ hash = "9a6809e22c99e87e4e1ac12a6e52b9de304cd6f372eb2c67658b94ab54b4a3c1"
 
 [[files]]
 file = "config/ProjectE/custom_emc.json"
-hash = "012e930d80e491b2e91165ab7466084bfe3c3f1b856378f384d0cac200dcb127"
+hash = "2549d9c10f1ab36ad6edb9f5c266a3a821e566d186227aaf7440bb778c9cdef7"
 
 [[files]]
 file = "config/ProjectE/mapping.toml"
@@ -1198,6 +1198,11 @@ hash = "d1bfaa8ca8831f1c43a971ab29672df863c3afb530abf278ebad4a8b9faf0499"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "1b7cb85da62669f134913bda2228fc7aaa2af7e3aef2a3312961acb3543178df"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "b84646283690a60b7759c6fd4ddef324225de6ea2eb99d4a4bdc1af78bddcdd5"
 metafile = true
@@ -1673,6 +1678,11 @@ hash = "a6c51068081c61647d8f4bfdbc6ef351d150622e921ebdca3efe4b45ecb6fd07"
 metafile = true
 
 [[files]]
+file = "mods/project-expansion.pw.toml"
+hash = "3e6aa17e65a2f6561a968db7e06f098752287dcd921b077d5bb7bfc342143dc8"
+metafile = true
+
+[[files]]
 file = "mods/projecte-integration.pw.toml"
 hash = "f6e2782e6a24fd63bde5ea41924c414bbf8b345cbe9451c7cd9cc0292b22873c"
 metafile = true
@@ -1773,6 +1783,11 @@ hash = "22d87bf80a28cce7cbb0a92365d058ae2e77193528b53d318dcecac75d33c587"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "21ded7427eed05b00fd5f1fb2c1e5232809113dc9020f612269181cad844a1fb"
+metafile = true
+
+[[files]]
 file = "mods/tempad.pw.toml"
 hash = "0ebc212bb83219ecd2b24d3943ab84a905c5f0963b04755fcf816d3b7744dc6b"
 metafile = true
@@ -1837,13 +1852,21 @@ file = "scripts/advanced_tempad.zs"
 hash = "d4c0cfca5e5d5e2604f647b9ad1a16270930716fc9ddb1f3180e48c2937f51c6"
 
 [[files]]
+file = "scripts/emc_link.zs"
+hash = "b6e3ab4230a1ce3981efe7d2d7482e13cd70b3ac4b3f3cb95de22ec869ed03c7"
+
+[[files]]
 file = "scripts/mekasuit_flight_module.zs"
 hash = "7a5582e077f558880595fb6d94639c7a26af7ad63039eddf43449165d5c759d7"
 
 [[files]]
 file = "scripts/recipe_remover.zs"
-hash = "70e2911fb4279f58099e190767123ae48c9ec5080325a7992d6043d37bce2bd0"
+hash = "c68e932cc85d0abfd1ee36ccc421f4bf5348183a97cff2afc5584c41c1b5f95c"
 
 [[files]]
 file = "scripts/tempad.zs"
 hash = "e70395585bdc013b6eb285f5739ec7a6ed9adbfadca303fe4bd3b3a890598b6e"
+
+[[files]]
+file = "scripts/transmutation_interface.zs"
+hash = "b4bf543cee5eae6249c2456d2204f91e20f150f69fa4d7ad766c5ca1b2e0c7a0"

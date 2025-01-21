@@ -15,6 +15,38 @@
     {
       "item": "mekanism:pellet_polonium",
       "emc": 16000
+    },
+    {
+      "item": "fluxnetworks:flux_dust",
+      "emc": 64
+    },
+    {
+      "item": "ae2:engineering_processor",
+      "emc": 8192
+    },
+    {
+      "item": "ae2:logic_processor",
+      "emc": 2048
+    },
+    {
+      "item": "ae2:calculation_processor",
+      "emc": 256
+    },
+    {
+      "item": "draconicevolution:item_wyvern_flight",
+      "emc": 50000
+    },
+    {
+      "item": "minecraft:white_concrete",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:gray_concrete",
+      "emc": 1
+    },
+    {
+      "item": "mekanismadditions:white_glow_panel",
+      "emc": 1
     }
   ]
 }
