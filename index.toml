@@ -201,11 +201,6 @@ hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
 metafile = true
 
 [[files]]
-file = "mods/joy-of-painting.pw.toml"
-hash = "250a60ad345454a739a4ed90779501c31c90f5be387c3e52816ced6713012e98"
-metafile = true
-
-[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "f25c3a4dc17c8893f4f69dac220e1b98a8603e5e8b30ca29c9a70e269b343663"
 metafile = true
