@@ -166,6 +166,11 @@ hash = "19e2d53f4bd7abed2be25edd3af43113a281344fa2a4fc3d5326f3902f7ba9b8"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "cf8b70a9aee53147acfa4f6dd545baf2a65a597dd456f04c65e8ce378afea11c"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4c6d9e09a9cb4dbd1cae6a962da9a5838eab21a3cf8514784359d6ae0dc13199"
 metafile = true
