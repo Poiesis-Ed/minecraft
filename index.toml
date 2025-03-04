@@ -6,11 +6,6 @@ hash = "29ee18f6cc9ff4948029892820bd83dd645580691e79bae2192711d54bc38e89"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "be86dd96391b15bb2df56997f848c901d3a9b1e844974bd5001a76c7262a578b"
-metafile = true
-
-[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "401e6f8ea3922a0fc69dd8fd126280133fa4e94e7f6558ad916bdef0d6e68bdd"
 metafile = true
@@ -73,11 +68,6 @@ metafile = true
 [[files]]
 file = "mods/common-network.pw.toml"
 hash = "8831fd4db9c71c69f67d53b54e9c7d2c30b0c05fc486b0c7ed9a7d3330ce0826"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "a4f671d5effbe2f3c01e4c8592c4e0818902343f7783a22f32da00517235316a"
 metafile = true
 
 [[files]]
@@ -203,11 +193,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
-metafile = true
-
-[[files]]
-file = "mods/joy-of-painting.pw.toml"
-hash = "250a60ad345454a739a4ed90779501c31c90f5be387c3e52816ced6713012e98"
 metafile = true
 
 [[files]]
