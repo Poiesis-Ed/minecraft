@@ -1,13 +1,13 @@
 name = "Supplementaries"
-filename = "supplementaries-1.20-3.1.10.jar"
+filename = "supplementaries-1.21-3.0.39-beta-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/HcdcLvdS/supplementaries-1.20-3.1.10.jar"
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/ASMr3AEe/supplementaries-1.21-3.0.39-beta-neoforge.jar"
 hash-format = "sha512"
-hash = "ae597c5d9f8203b612ef97433dfe207929984523f5c041d86f9e6a199d66c9044a71c8809646c64e4b5faa37bf34fbcb7f07b335f52443244475f3f549ca25ef"
+hash = "92028884a0661e37d05546f0e8f09df04ba86544921c49d4b8d9e192b16cbacd8a7e1dfac22c0b3168f55325a2a459f3e4848a8e370afa5da96a41abbab87e97"
 
 [update]
 [update.modrinth]
 mod-id = "fFEIiSDQ"
-version = "HcdcLvdS"
+version = "ASMr3AEe"

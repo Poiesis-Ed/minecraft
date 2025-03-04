@@ -1,13 +1,13 @@
 name = "Sooty Chimneys"
-filename = "sootychimneys-1.20.1-1.2.1.jar"
+filename = "sootychimneys-neoforge-1.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/b3w1XM9H/versions/antfC9D5/sootychimneys-1.20.1-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/b3w1XM9H/versions/A8QyAUYW/sootychimneys-neoforge-1.3.2.jar"
 hash-format = "sha512"
-hash = "ddded3954ff330d97c3e9280deed50f6c69ee5c2dd353f2b9a9097265d98c71c69387ce57d7e251275903ef57181f6c5985554daf4e83e4147587d1411fd3eaa"
+hash = "547712fa3475ed9c6218d8bdde11dccd77ff2fc53124fe4a2180d1ed173b25ea803c953133799dc1f32d3b24083eb79ef8769ba8c32ca7c9e27ca3e5cc71a64d"
 
 [update]
 [update.modrinth]
 mod-id = "b3w1XM9H"
-version = "antfC9D5"
+version = "A8QyAUYW"

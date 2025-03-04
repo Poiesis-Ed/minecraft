@@ -1,0 +1,13 @@
+name = "LittleTiles"
+filename = "LittleTiles_BETA_v1.6.0-pre157_mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RCRxC1tD/versions/roOGy3FT/LittleTiles_BETA_v1.6.0-pre157_mc1.21.1.jar"
+hash-format = "sha512"
+hash = "36ef0a742a19f70fa8f65c363a96cf39a80328e831068c10dbc329d148cf0bfa3cf7411593379efdee41d5bec61c69d28129ad22dc52b49352626653973d67d2"
+
+[update]
+[update.modrinth]
+mod-id = "RCRxC1tD"
+version = "roOGy3FT"

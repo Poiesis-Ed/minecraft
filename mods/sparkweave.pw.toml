@@ -1,0 +1,13 @@
+name = "Sparkweave Engine"
+filename = "Sparkweave-NeoForge-0.507.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nf68xfAw/versions/oW9ijMg7/Sparkweave-NeoForge-0.507.1.jar"
+hash-format = "sha512"
+hash = "6ede27af685a7d2509771795934d093bd9afae368fbbc325ba3196f184a3817c888819affd6878ae3a1d0d12ae2824d4d131e01e17f24425a23f1e015601d29e"
+
+[update]
+[update.modrinth]
+mod-id = "nf68xfAw"
+version = "oW9ijMg7"

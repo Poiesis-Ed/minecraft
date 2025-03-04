@@ -1,13 +1,13 @@
 name = "Musket Mod"
-filename = "musketmod-1.20.1-forge-1.5.4.jar"
+filename = "musketmod-1.21.1-neoforge-1.5.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/967vM4zw/versions/TMhHD4WK/musketmod-1.20.1-forge-1.5.4.jar"
+url = "https://cdn.modrinth.com/data/967vM4zw/versions/hro6S6DK/musketmod-1.21.1-neoforge-1.5.4.jar"
 hash-format = "sha512"
-hash = "769e55dfc704f0b5028ec0bcd2301effced94d22dc83772a601de53da36556b545281565b795d73abcba394d26bd0452a6fc874eac38cb867b585155b79783a3"
+hash = "a1a544293057232305c75ffb288a33592115cda83471dd508b4a8fc27ff5332be0c57c0961bc57a34077f437c3ddd3bb6c9f3bf84dc9c813be7d8919a79fcf6c"
 
 [update]
 [update.modrinth]
 mod-id = "967vM4zw"
-version = "TMhHD4WK"
+version = "hro6S6DK"
