@@ -126,6 +126,11 @@ hash = "3940cd0e4851ac46b400d1f5ba8ebdad8ae4d2d6701ef21e326425b68b152212"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "33d0dc14d852bfe9a23fa74ce77076dc98db516cd83a097179274fb26c5e4240"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "427a88460d0de56a2ecbce51fba8e28b1cb00c07a673c0c1b6ba9f3156eb6a6d"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "d93055542dd999986138c9d03f93efdc14374d1fb6433d8dfeeb8da75a6f219d"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "5c5c05a43cd40f175409ba8bb65bf09492b79a9d71e5dad95981b8e011d5182f"
 metafile = true
 
 [[files]]
