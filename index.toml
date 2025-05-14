@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "f875a7b50dea72661141b712442a9adbe3ff17ce7acc0e80d1f5172e7774f94e"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "361e355e701f446ce81d596985221687f7fe37f30c504c7dce547a1e6f7d5f86"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "b4160f327578ee994907c217b8de09e2c4377b5735b12ad56d91cb1a08ddd62d"
 metafile = true
