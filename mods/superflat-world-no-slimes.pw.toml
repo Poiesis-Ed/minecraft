@@ -1,0 +1,13 @@
+name = "Superflat World No Slimes"
+filename = "superflatworldnoslimes-1.21.1-3.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7lrBqj5C/versions/2YtOHhmL/superflatworldnoslimes-1.21.1-3.4.jar"
+hash-format = "sha512"
+hash = "f8c68da3979abcf372fd384852b524c0304e89084d8044036704ebafc06a48d78de68dccbd5b0495950c29a0a651295212e0ed28be80aade985e8cd4b9023054"
+
+[update]
+[update.modrinth]
+mod-id = "7lrBqj5C"
+version = "2YtOHhmL"
