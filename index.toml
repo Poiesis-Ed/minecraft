@@ -429,6 +429,11 @@ hash = "bedb744feedeb8fb5af830d4c22b934c11f455588dfef47a5cf3c951804d5f9f"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+metafile = true
+
+[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "702df8b679041c5f459da5a0dc456f70de336810bc69ff726d8c925bf484e99c"
 metafile = true
