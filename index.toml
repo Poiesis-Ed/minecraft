@@ -254,8 +254,8 @@ hash = "4e6cce2a40f56a58a5dffa924b05a27b7cc618c4c9afd611e5a2ff247a5a1065"
 metafile = true
 
 [[files]]
-file = "mods/effortless.pw.toml"
-hash = "fb15c2081315f5d57a085056246f0f2c221e318bb81564ca631220fea650bb35"
+file = "mods/effortless-building.pw.toml"
+hash = "9eed5211ec173caa872706cd0d1bd0b799826059bb9ba078a52156d78f13e0a3"
 metafile = true
 
 [[files]]
@@ -361,11 +361,6 @@ metafile = true
 [[files]]
 file = "mods/invmove.pw.toml"
 hash = "c40df2a317ccff0ece3818028bec09727154486051a42bfb42765c9ca3420038"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "ca8e90d44722f5fe35427d7ad1f7f34ce78155031a6dc76dfd11dd4064873693"
 metafile = true
 
 [[files]]
@@ -586,41 +581,6 @@ metafile = true
 [[files]]
 file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
 hash = "f8ba20a06c8391dedc25741ab2817e1af2bfb9a182eee248471dae4b41eb7d77"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extras.pw.toml"
-hash = "c83dd1d3c2dde6081e6f89246fb3b89fa29734f5329f4cd6d949a5c0da55f35c"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-mod-compat.pw.toml"
-hash = "cef2df389d9ea783c940ff614e987223aa10b7653f8228d2f899071a151d60f6"
-metafile = true
-
-[[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "c5687771065e4a43266b38018cbdf142b216916dd73aa6532b8282e3d0f06b9c"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
-metafile = true
-
-[[files]]
-file = "mods/sodiumleafculling.pw.toml"
-hash = "819b3e7402252905b6fe89743589df910c84995e8305995cb61d1f32fda2a2eb"
 metafile = true
 
 [[files]]
