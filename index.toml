@@ -154,6 +154,16 @@ hash = "4a00a23c01074bdc034b050d1da6eb2369c3ae12642f795aacddb00ffd365206"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-pokenav.pw.toml"
+hash = "848070500725f7a5cbb94d7c1796fd001da57326aebab0333bb56fbb784dc457"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-ride-on.pw.toml"
+hash = "211da712c78ff12075d123ad564b5513ef34755f200ac566eb4e94ca046dc218"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "e3cb1eb238192071af93f764e3ff2c493f4f437802bb56273f664bafdea13f1d"
 metafile = true
@@ -266,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/experiencelib.pw.toml"
 hash = "f3f4c84a0618e7559226a82b23bdb1ece40d3d03bda4f84e57db4db6b0b42cb0"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
 metafile = true
 
 [[files]]
@@ -476,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
 
 [[files]]
