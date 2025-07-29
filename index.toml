@@ -9,6 +9,10 @@ file = "config/alexscaves-client.toml"
 hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "a1847c3981971d2b89f16240eb34a911ec58f503ea8805711129b8313505f524"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "20e2dbcde20de2191413b7b5984425f719f957ed564ce00f69e822ac01711c78"
 metafile = true
@@ -51,6 +55,11 @@ metafile = true
 [[files]]
 file = "mods/attributes.pw.toml"
 hash = "f5d265ad34588a9b5d9bbba6e5f1ff02c723d7e41da8dc56124c783d90962c39"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "f09f722a08e566b4165bc05005b903768cceb63e6d90cdd7758eb2a7de3986d5"
 metafile = true
 
 [[files]]
@@ -156,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "e9dfcaebe165cb93ba4774f5c17bae14b5b82878593199539326f92519f59d5e"
 metafile = true
 
 [[files]]
