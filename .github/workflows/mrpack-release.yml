@@ -21,6 +21,7 @@ jobs:
         go-version: '1.20'
 
     - name: Cache gopath
+      uses: actions/cache@v4
       id: cache-gopath
       env:
         cache-name: gopath-cache
@@ -30,6 +31,7 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-run-
           ${{ runner.os }}-
+    
     - if: ${{ steps.cache-gopath.outputs.cache-hit != 'true' }}
       name: Install Packwiz
       continue-on-error: true
