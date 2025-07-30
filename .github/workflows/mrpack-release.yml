@@ -38,9 +38,9 @@ jobs:
       run: go install github.com/packwiz/packwiz@latest
       
     - name: Export mrpack
-      run: packwiz modrinth export --output "poiesis-${{ github.ref }}.mrpack"
+      run: packwiz modrinth export --output "poiesis-${{ github.ref_name }}.mrpack"
 
-    - name: Ganerate Changelog
+    - name: Generate Changelog
       run: |
         (echo -e "## Changes since last release\n" && \
         git diff --name-status HEAD~1 HEAD | awk '{ \
