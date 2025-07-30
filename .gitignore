@@ -1,2 +1,3 @@
 *.exe
 *.mrpack
+.DS_Store
