@@ -16,6 +16,6 @@ echo "Pushed update to production branch."
 So if it's not working just make sure you have git, and run this.
 
 ## What are the tags about
-We use the tags in order to create github releases. The GitHub releases contain an .mrpack file so if any end user doesn't have PrismLauncher for any reason, we can just give them that.
+We use the tags to create GitHub releases with GitHub actions. The GitHub releases contain a `.mrpack` file so if an end user doesn't have PrismLauncher for any reason, we can just give them that.
 
-*in the future we might even be able to use them to create CurseForge packs, and redeploy the server*
+*in the future we might even be able to use GitHub actions to redeploy the server*
