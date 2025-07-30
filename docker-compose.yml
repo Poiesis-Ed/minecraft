@@ -1,0 +1,17 @@
+version: '3.8'
+name: minecraft
+services:
+  server:
+    image: ghcr.io/codecraft3r/packwiz-container:main
+    environment:
+      - PACKWIZ_URL=https://raw.githubusercontent.com/Poiesis-Ed/minecraft/refs/heads/main/pack.toml
+      - MB_RAM=4096
+    volumes:
+      - packwiz-server-data:/mnt/server
+    ports:
+      - "25565:25565"
+    restart: unless-stopped
+
+# note: to remove the server and all data, use `docker-compose down --volumes`
+volumes:
+  packwiz-server-data:
