@@ -1,0 +1,66 @@
+# This workflow will build a golang project
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-go
+
+name: Go
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.20'
+
+    - name: Cache gopath
+      id: cache-gopath
+      env:
+        cache-name: gopath-cache
+      with:
+        path: $HOME/go
+        key: ${{ runner.os }}-run-${{ env.cache-name }}
+        restore-keys: |
+          ${{ runner.os }}-run-
+          ${{ runner.os }}-
+    - if: ${{ steps.cache-gopath.outputs.cache-hit != 'true' }}
+      name: Install Packwiz
+      continue-on-error: true
+      run: go install github.com/packwiz/packwiz@latest
+      
+    - name: Export mrpack
+      run: packwiz modrinth export --output "poiesis-${{ github.ref }}.mrpack"
+
+    - name: Ganerate Changelog
+      run: |
+        (echo -e "## Changes since last release\n" && \
+        git diff --name-status HEAD~1 HEAD | awk '{ \
+          files[$1] = files[$1] ? files[$1] ORS "- " $2 : "- " $2 \
+        } END { \
+          if (files["A"]) print "### Added\n" files["A"]; \
+          if (files["M"]) print "### Modified\n" files["M"]; \
+          if (files["D"]) print "### Deleted\n" files["D"]; \
+          if (files["R"]) print "### Renamed\n" files["R"]; \
+          if (files["C"]) print "### Copied\n" files["C"]; \
+          if (files["U"]) print "### Unmerged\n" files["U"]; \
+        }' && \
+        (printf "\n#"; cat ./docs/known-issues.md)) > ${{ github.workspace }}-changelog.txt
+        
+    - name: Release
+      uses: softprops/action-gh-release@v2
+      with:
+        files: poiesis-${{ github.ref }}.mrpack
+        body_path: ${{ github.workspace }}-changelog.txt
+      
+      
+      
+        
+      
+    
