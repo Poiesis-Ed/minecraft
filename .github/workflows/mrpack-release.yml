@@ -58,7 +58,7 @@ jobs:
     - name: Release
       uses: softprops/action-gh-release@v2
       with:
-        files: poiesis-${{ github.ref }}.mrpack
+        files: poiesis-${{ github.ref_name }}.mrpack
         body_path: ${{ github.workspace }}-changelog.txt
       
       
