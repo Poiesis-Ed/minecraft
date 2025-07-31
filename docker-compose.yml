@@ -5,7 +5,7 @@ services:
     image: ghcr.io/codecraft3r/packwiz-container:main
     environment:
       - PACKWIZ_URL=https://raw.githubusercontent.com/Poiesis-Ed/minecraft/refs/heads/main/pack.toml
-      - MB_RAM=4096
+      - MB_RAM=6144
     volumes:
       - packwiz-server-data:/mnt/server
     ports:
