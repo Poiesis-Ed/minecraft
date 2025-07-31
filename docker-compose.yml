@@ -6,12 +6,22 @@ services:
     environment:
       - PACKWIZ_URL=https://raw.githubusercontent.com/Poiesis-Ed/minecraft/refs/heads/main/pack.toml
       - MB_RAM=6144
+      - WHITELIST_JSON=${WHITELIST_JSON}
     volumes:
-      - packwiz-server-data:/mnt/server
+      - world-data:/mnt/server/world
     ports:
       - "25565:25565"
     restart: unless-stopped
+  backup:
+    image: itzg/mc-backup
+    environment:
+      BACKUP_INTERVAL: "12h"
+      RCON_HOST: server
+      RCON_PASSWORD: packwiz
+      INITIAL_DELAY: 10m
+    volumes:
+      - world-data:/data:ro
+      - ./mc-backup:/backups
 
-# note: to remove the server and all data, use `docker-compose down --volumes`
 volumes:
-  packwiz-server-data:
+  world-data:
