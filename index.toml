@@ -63,11 +63,6 @@ hash = "f09f722a08e566b4165bc05005b903768cceb63e6d90cdd7758eb2a7de3986d5"
 metafile = true
 
 [[files]]
-file = "mods/bellsandwhistles.pw.toml"
-hash = "126db1f1ec01bbc4cf3393e087363e2fdbfe4a3face897ed27985b14a1a519a9"
-metafile = true
-
-[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
 metafile = true
@@ -118,18 +113,8 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
-file = "mods/copycats.pw.toml"
-hash = "408ce5619020064fc084d150d331edc654bbf1749bbd289e19f050a0df51f1c8"
-metafile = true
-
-[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "076ff478a024d973f3892ec67884f8f6973b0945bcd38900eefc113ea0ff9f71"
 metafile = true
 
 [[files]]
@@ -285,11 +270,6 @@ metafile = true
 [[files]]
 file = "mods/integrated-villages.pw.toml"
 hash = "4c370e8ae8dcd19e0cb8f59c88d054c1d7f9cb3591cbf00a7970505bc9e09480"
-metafile = true
-
-[[files]]
-file = "mods/interiors.pw.toml"
-hash = "94a549e2ce246807a68cb59773e2ee2ec412039fb2aed4e4d5b35077972c66d4"
 metafile = true
 
 [[files]]
@@ -525,11 +505,6 @@ metafile = true
 [[files]]
 file = "mods/skills.pw.toml"
 hash = "b0c4d5eabeff34d9687634cef9b0b4c73d27965bdafab3b1c6f903355eb7cd64"
-metafile = true
-
-[[files]]
-file = "mods/slice-and-dice.pw.toml"
-hash = "1ec44d19b3251bb6673853ce9a1aa63220b01d4920ea60e982b0911c5b5943fb"
 metafile = true
 
 [[files]]
