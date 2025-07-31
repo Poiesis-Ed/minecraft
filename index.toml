@@ -128,21 +128,6 @@ hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
-file = "mods/create-curios-jetpack.pw.toml"
-hash = "f8bf78c6abb10070eadd518e78bd712823010a817e174a5d3e8f4ae481e29b78"
-metafile = true
-
-[[files]]
-file = "mods/create-enchantment-industry.pw.toml"
-hash = "c670ae9055f10dafb61fe340583c361f4c41ed45671c9440bae1f0696b47252a"
-metafile = true
-
-[[files]]
-file = "mods/create-jetpack.pw.toml"
-hash = "af34be85ba49c0ab5cfa982627c6f196c395926dcadfb495060ac5aa56ed7daf"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "076ff478a024d973f3892ec67884f8f6973b0945bcd38900eefc113ea0ff9f71"
 metafile = true
