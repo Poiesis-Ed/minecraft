@@ -9,7 +9,7 @@ git rm -r --cached "*" # make sure we don't carry over old resource toml files
 git add "*"
 git commit -m "your update message goes here"
 git tag "vX.X.X" # replace x.x.x with a correct version
-git push origin --tags
+git push --tags
 echo "Pushed update to production branch."
 ```
 
