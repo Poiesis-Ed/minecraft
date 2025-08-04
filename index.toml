@@ -443,6 +443,11 @@ hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
+file = "mods/odyssey-roles.pw.toml"
+hash = "0703f94e3ef593ffea78bb3a41ab95d9262951397f6efeb87b84a94645debf62"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "d64cc6ea9645a980ef0911bc036fb217ff9447fccb0086379490cb36b76932e2"
 metafile = true
