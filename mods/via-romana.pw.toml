@@ -1,0 +1,13 @@
+name = "Via Romana: Infrastructure-Driven Fast Travel"
+filename = "via_romana-forge-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FVToiKwr/versions/No2AcqUy/via_romana-forge-1.4.1.jar"
+hash-format = "sha512"
+hash = "0cee427029bc884bd06e0e96ad3ea2040be90cd3a5ad08c992200dc971088e339b293eb01a0bbd26c3dbaa2cc3edc25dfe17357deee66b195d965c66b82e6cb3"
+
+[update]
+[update.modrinth]
+mod-id = "FVToiKwr"
+version = "No2AcqUy"

@@ -13,6 +13,10 @@ file = "config/defaultoptions/options.txt"
 hash = "a1847c3981971d2b89f16240eb34a911ec58f503ea8805711129b8313505f524"
 
 [[files]]
+file = "config/enchantinginfuser-server.toml"
+hash = "2fc0a2d1331da25a185f03b2661fda8ccc398a4ec48d641de23297f9c1d31ec4"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "20e2dbcde20de2191413b7b5984425f719f957ed564ce00f69e822ac01711c78"
 metafile = true
@@ -35,6 +39,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+metafile = true
+
+[[files]]
+file = "mods/aqua-combat.pw.toml"
+hash = "62fd0948a7752172b2a01008a6261c5bd0804ab3b509445589f06580b23f7601"
 metafile = true
 
 [[files]]
@@ -183,6 +192,11 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "5789ad8bb50d419d1b8bb736137a65be4d76296575cfcd5b86997cbf5d52cff5"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "3f63f54bf638954d1da79cacc7ab2d58e1886c98bdb2b267035abfa0ce8a5a72"
 metafile = true
@@ -208,6 +222,11 @@ hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "ce198cf0e4ac56f35c03b5e721eacbd6c6bc86b6ab318c4c7259082edb625fc2"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "7b846273c5cbc4d0eb1f3d0eb4802b0e81e54dea84cf25666015ca50931fe307"
 metafile = true
@@ -230,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "bfe1b9ef08ea1e5e3a49a449105d91718a74cf10628964c86897d7ae5fac20be"
+metafile = true
+
+[[files]]
+file = "mods/glowing-eyes.pw.toml"
+hash = "438d84e316c8221e0f3ab4bb62a1151d3c4c051c10b418a9acfe12fa8a2c4ca4"
 metafile = true
 
 [[files]]
@@ -543,8 +567,18 @@ hash = "72c0e1d4d8eb05e6c82c8959885ee5f08b8c7ede63b438e22a7422246679cc46"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "1fd9dddb35880e9262a0ef801d34058a0f77ddc21fb0e1fab0da07f692071d51"
+metafile = true
+
+[[files]]
 file = "mods/twigs.pw.toml"
 hash = "08a5b69474ddf223809a4e624f123dd3886362011663989c1bbacd6b5167baf0"
+metafile = true
+
+[[files]]
+file = "mods/via-romana.pw.toml"
+hash = "e493847ee9de43f251d5777198c92f475fc52a96d1ab40cf5a405ed40a50334f"
 metafile = true
 
 [[files]]
@@ -565,6 +599,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "2bb8c65e92264ca78b851a7e04461d9ef2c1e0bfab532ece8cefed5330680653"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true
 
 [[files]]
