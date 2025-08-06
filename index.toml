@@ -17,6 +17,10 @@ file = "config/enchantinginfuser-server.toml"
 hash = "2fc0a2d1331da25a185f03b2661fda8ccc398a4ec48d641de23297f9c1d31ec4"
 
 [[files]]
+file = "datapacks/crown-curio/curios/tags/items/crown.json"
+hash = "a90760720c7284fce2ab8d71da522ab24b9216035d744d43a4b77010b1bc7333"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "20e2dbcde20de2191413b7b5984425f719f957ed564ce00f69e822ac01711c78"
 metafile = true
