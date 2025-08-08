@@ -17,6 +17,14 @@ file = "config/enchantinginfuser-server.toml"
 hash = "2fc0a2d1331da25a185f03b2661fda8ccc398a4ec48d641de23297f9c1d31ec4"
 
 [[files]]
+file = "datapacks/curio-customization/data/curio_customization/curios/slots/back.json"
+hash = "c2cf997f78a631a58da6851b690a0877694bd53f247a1226b9a4ca5dc8273d2a"
+
+[[files]]
+file = "datapacks/curio-customization/pack.mcmeta"
+hash = "bc80dc435d2922d4bd66e471a00178860bb1622445cf4fec1b2136d86aa95598"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "20e2dbcde20de2191413b7b5984425f719f957ed564ce00f69e822ac01711c78"
 metafile = true
