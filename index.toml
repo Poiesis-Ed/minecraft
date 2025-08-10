@@ -570,6 +570,11 @@ hash = "90740ea3deeebbf79372bb77df0d9830ef663f1f574a281068e01cd2295c22a7"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "0950a346a4303fc0bb5d6b54ce99380b059f740753d65efe16bf4b0b187cd76b"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "4bc420f77cac5e4ededc3c1f67d937757220aa81a1c6657515d29a74af01703e"
 metafile = true
