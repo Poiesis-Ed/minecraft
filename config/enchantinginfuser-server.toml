@@ -22,10 +22,10 @@
 		#This option takes precedence over option for treasure enchantments (as curses are also treasure enchantments internally).
 		allow_curses_enchantments = false
 		#Allow treasure enchantments (e.g. mending) to be applied using the enchanting infuser.
-		allow_treasure_enchantments = true
+		allow_treasure_enchantments = false
 		#Allow untradeable enchantments (e.g. soul speed) to be applied using the enchanting infuser.
 		#This option takes precedence over other options for treasure and curse enchantments.
-		allow_untradeable_enchantments = true
+		allow_untradeable_enchantments = false
 		#Allow enchantments that can normally not be obtained from an enchanting table, but can be put on the item in an anvil (e.g. sharpness on an axe).
 		allow_anvil_enchantments = true
 		#Allow undiscoverable enchantments (e.g. soul speed) to be applied using the enchanting infuser.

@@ -1,0 +1,13 @@
+name = "ProjectE Integration"
+filename = "ProjectE_Integration-1.20.1-7.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V8sT0HfM/versions/MxlyJleI/ProjectE_Integration-1.20.1-7.2.5.jar"
+hash-format = "sha512"
+hash = "106b08e6d5f4806a1ae210262ec19c5df68e722019124b776cca86ef8278ba12f9e23725d00e2723f2737568316e96c74547d72c938ec2fd353cc8c7ffbf0f37"
+
+[update]
+[update.modrinth]
+mod-id = "V8sT0HfM"
+version = "MxlyJleI"
