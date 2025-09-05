@@ -6,9 +6,9 @@ services:
     environment:
       - PACKWIZ_URL=https://raw.githubusercontent.com/Poiesis-Ed/minecraft/refs/heads/main/pack.toml
       - MB_RAM=6144
-      - WHITELIST_JSON=${WHITELIST_JSON}
     volumes:
       - world-data:/mnt/server/world
+      - ./whitelist.json:/mnt/server/whitelist.json
     ports:
       - "25565:25565"
     restart: unless-stopped
@@ -24,4 +24,5 @@ services:
       - ./mc-backup:/backups
 
 volumes:
+
   world-data:
