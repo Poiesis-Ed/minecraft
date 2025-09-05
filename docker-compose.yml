@@ -8,7 +8,7 @@ services:
       - MB_RAM=6144
     volumes:
       - world-data:/mnt/server/world
-      - ./whitelist.json:/mnt/server/whitelist.json
+      - /root/mc-globals/whitelist.json:/mnt/server/whitelist.json
     ports:
       - "25565:25565"
     restart: unless-stopped
@@ -21,8 +21,9 @@ services:
       INITIAL_DELAY: 10m
     volumes:
       - world-data:/data:ro
-      - ./mc-backup:/backups
+      - /root/mc-backup:/backups
 
 volumes:
 
   world-data:
+
