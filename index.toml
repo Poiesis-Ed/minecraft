@@ -716,6 +716,11 @@ hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "8cf91dcad4590fed49069cdae47b211bdbee7da6e0c175ae802421ec6a961ae1"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "691798dd9acfd386bc9332249cd4c1291c646af4d97999090ec0528d9bb35c88"
 metafile = true
@@ -953,6 +958,16 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "1fd9dddb35880e9262a0ef801d34058a0f77ddc21fb0e1fab0da07f692071d51"
+metafile = true
+
+[[files]]
+file = "mods/villager-recruits.pw.toml"
+hash = "6b8785d7c41f1b43793664c619e24c823c38a18a0ab3afe112673bae1af14012"
+metafile = true
+
+[[files]]
+file = "mods/villager-workers.pw.toml"
+hash = "19bfd9ceea4903a0c577351d4dfd1549e962afdd566030762d885104bce7bc04"
 metafile = true
 
 [[files]]
