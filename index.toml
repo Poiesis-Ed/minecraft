@@ -226,11 +226,6 @@ hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
-file = "mods/krypton-foxified.pw.toml"
-hash = "b843ce75c788f0720b6e23d9021ce55d37415d72802ee60d95bd2fc5809ba96c"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights-unofficial-neoforge.pw.toml"
 hash = "3003180f2f32aa8aea9bc786e935e0b224f509f0131df625090c12f528d8ddc7"
 metafile = true
