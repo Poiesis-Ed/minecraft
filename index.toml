@@ -51,11 +51,6 @@ hash = "17f4ad375a6446bb2ded49a587af0618e86dccdc1ac965bcf0f02c6287dbdfd1"
 metafile = true
 
 [[files]]
-file = "mods/bisect-mod.pw.toml"
-hash = "53a2d769e2c40e08cdfa67d822f8a2f3b283f8422dfe3b7bfe95a1634a5bf41f"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "4251cec80cb5687d2b0b2c2fe063b1ea9a7511c83ed22824342770919ea91feb"
 metafile = true
@@ -173,11 +168,6 @@ metafile = true
 [[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "c088ee3e0b1219adb637caeea4b6a16beec6234c03abfb4e01c8aaec6741b57c"
 metafile = true
 
 [[files]]
