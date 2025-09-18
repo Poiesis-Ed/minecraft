@@ -21,6 +21,11 @@ hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "574807cedb57ba6360060d6bf4a359cea9d00bf8700caee866d48ab949005b89"
 metafile = true
@@ -298,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "f5476a132bfd78bfdc4335a62176da73da73190b639eac600f0ee3a9366ccbd9"
+metafile = true
+
+[[files]]
+file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
+hash = "f8ba20a06c8391dedc25741ab2817e1af2bfb9a182eee248471dae4b41eb7d77"
 metafile = true
 
 [[files]]
