@@ -306,11 +306,6 @@ hash = "6afce08213c05a33240e980e2b92032a6a3ad25d2a54ff8e9f56b5f00d46d45d"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
-hash = "1ecc11bc110c45bc7c5b6fdb2ecddb6af5c5ae2c661bd44ea9b78291b01a0892"
-metafile = true
-
-[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
 metafile = true
@@ -413,11 +408,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "2c297fb87d09bd4203399e865d48a10aa82016c53b6767b10b43726e111a3566"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "b58d586a0560ceab0ab47d7e3e8b738cf2bec7c5df5ed8f94e95326c61a8b792"
 metafile = true
 
 [[files]]
