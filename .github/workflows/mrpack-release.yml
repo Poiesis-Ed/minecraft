@@ -39,27 +39,11 @@ jobs:
       
     - name: Export mrpack
       run: packwiz modrinth export --output "poiesis-${{ github.ref_name }}.mrpack"
-
-    - name: Generate Changelog
-      run: |
-        (echo -e "## Changes since last release\n" && \
-        git diff --name-status HEAD~1 HEAD | awk '{ \
-          files[$1] = files[$1] ? files[$1] ORS "- " $2 : "- " $2 \
-        } END { \
-          if (files["A"]) print "### Added\n" files["A"]; \
-          if (files["M"]) print "### Modified\n" files["M"]; \
-          if (files["D"]) print "### Deleted\n" files["D"]; \
-          if (files["R"]) print "### Renamed\n" files["R"]; \
-          if (files["C"]) print "### Copied\n" files["C"]; \
-          if (files["U"]) print "### Unmerged\n" files["U"]; \
-        }' && \
-        (printf "\n#"; cat ./docs/known-issues.md)) > ${{ github.workspace }}-changelog.txt
         
     - name: Release
       uses: softprops/action-gh-release@v2
       with:
         files: poiesis-${{ github.ref_name }}.mrpack
-        body_path: ${{ github.workspace }}-changelog.txt
       
       
       
