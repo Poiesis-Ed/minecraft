@@ -4,7 +4,8 @@ services:
   server:
     image: ghcr.io/codecraft3r/packwiz-container:main
     environment:
-      - PACKWIZ_URL=https://raw.githubusercontent.com/Poiesis-Ed/minecraft/refs/heads/main/pack.toml
+      - GH_USERNAME=poiesis-ed
+      - GH_REPO=minecraft
       - MB_RAM=6144
     volumes:
       - world-data:/mnt/server/world
