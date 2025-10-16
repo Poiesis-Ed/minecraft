@@ -1,0 +1,13 @@
+name = "Toxony"
+filename = "toxony-0.10.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XnNmSWmE/versions/5z7QzYW7/toxony-0.10.4.jar"
+hash-format = "sha512"
+hash = "3b2f77927b9826ff76a53d257147d733f9083901f533c8cd99ec060a5177edff7adad370241a38fa55be277c18bdfb2bf812b7af0ab8f0f051592e9a664a1ded"
+
+[update]
+[update.modrinth]
+mod-id = "XnNmSWmE"
+version = "5z7QzYW7"

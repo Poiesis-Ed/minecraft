@@ -1,0 +1,13 @@
+name = "Clavis"
+filename = "Clavis-NEOFORGE-0.2.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y9Xnig6p/versions/kOSLozN7/Clavis-NEOFORGE-0.2.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "61b31af53488afcb40303a4648cdb160a86514f6ba8a6048938556bb95ac659aff25b9d6b33fe278a839df4d4a0eba0892ca36ca389b9d0af3864770e8ae1d23"
+
+[update]
+[update.modrinth]
+mod-id = "y9Xnig6p"
+version = "kOSLozN7"

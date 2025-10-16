@@ -1,0 +1,13 @@
+name = "Dungeon Difficulty"
+filename = "dungeon_difficulty-neoforge-3.6.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ENZmbSFZ/versions/NLKM8zci/dungeon_difficulty-neoforge-3.6.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "4182bb4e8f472c1bbc3fba15dfe0669455821cf08d58896bf1823f08e922400394040ad3c62ca087abf7b10988582989095204830e7690feb64becdb7b3c2d45"
+
+[update]
+[update.modrinth]
+mod-id = "ENZmbSFZ"
+version = "NLKM8zci"

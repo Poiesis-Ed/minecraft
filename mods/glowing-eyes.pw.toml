@@ -1,0 +1,13 @@
+name = "Glowing Eyes"
+filename = "glowingeyes-neoforge-1.21.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9i2aYUyi/versions/8HcwQ8aK/glowingeyes-neoforge-1.21.1-2.0.2.jar"
+hash-format = "sha512"
+hash = "a6fe8ed1512e7b675e9fc552dd6a4ee97465fb05f0b26e909e4d172d3a827a68939a4086beb143fe7598aa777753b035a0edc4427c00acb2cd0aca4864c85249"
+
+[update]
+[update.modrinth]
+mod-id = "9i2aYUyi"
+version = "8HcwQ8aK"

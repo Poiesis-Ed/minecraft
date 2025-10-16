@@ -1,0 +1,13 @@
+name = "Icarus"
+filename = "Icarus-NeoForge-4.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dw7M6XKW/versions/Om5ZpK1r/Icarus-NeoForge-4.5.1.jar"
+hash-format = "sha512"
+hash = "e1fad9c1e60d43e8fcf49ad6ce43304266009df4423f7a67b9efe90884a8e7b1a3fa5f9d7bbeddc8400b0897803c5aacf65cd5474d17e49c58057ad6bed55408"
+
+[update]
+[update.modrinth]
+mod-id = "Dw7M6XKW"
+version = "Om5ZpK1r"

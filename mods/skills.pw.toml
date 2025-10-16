@@ -1,0 +1,13 @@
+name = "Pufferfish's Skills"
+filename = "puffish_skills-0.16.8-1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hqQqvaa4/versions/iHtYs3aQ/puffish_skills-0.16.8-1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "7c34b3e0fcd5fb7cdad4434144e627b2819bb3e401fdc6054aa6d9984517d2f761503d6e357ac98869e08840133c9c552c2b3e3d5847eca19f8e01d4627f7f67"
+
+[update]
+[update.modrinth]
+mod-id = "hqQqvaa4"
+version = "iHtYs3aQ"

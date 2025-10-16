@@ -1,0 +1,13 @@
+name = "Shield API"
+filename = "shield_api-neoforge-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y9clIFY4/versions/rIjPPn4Y/shield_api-neoforge-2.1.0.jar"
+hash-format = "sha512"
+hash = "8be640798d4c3bdfe3068e87c8e551b01eb6e286429516792b6b159a402b596c988e9c88b31ccfef0d0da3d4a0d710775ea69d748b4659bdbae54de126b9e942"
+
+[update]
+[update.modrinth]
+mod-id = "y9clIFY4"
+version = "rIjPPn4Y"

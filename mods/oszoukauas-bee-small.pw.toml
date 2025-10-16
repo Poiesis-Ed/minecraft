@@ -1,0 +1,13 @@
+name = "oSzoukaua's: Bee Small"
+filename = "oszoukauas-bee-small-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mMMzI1Bu/versions/giFYjkZ3/oszoukauas-bee-small-1.2.1.jar"
+hash-format = "sha512"
+hash = "0e9df96cddd593cd8a608ae89714dfc69383b9cc0cffef8beeb1bf2c5f702e9f87895dcaf0b5cba8aa81e49bedfba11062c77554267b17227109ef0ade822901"
+
+[update]
+[update.modrinth]
+mod-id = "mMMzI1Bu"
+version = "giFYjkZ3"

@@ -1,12 +1,12 @@
-name = "Minecraft"
+name = "poiesis"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5ec410ba5e9c55622baffab9245122a630c68472d1114f34cd4d25f4dea823f7"
+hash = "afdc57018fff2dd6a3dc6a8513f670680d98f4ad834645b8c62018713f718695"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.172"
+neoforge = "21.1.209"

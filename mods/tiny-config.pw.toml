@@ -1,0 +1,13 @@
+name = "Tiny Config"
+filename = "tiny_config-fabric-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EivZOK5a/versions/3FqmksAo/tiny_config-fabric-3.0.0.jar"
+hash-format = "sha512"
+hash = "43db00c6ab5bcb6436869008655ec834705430699d9986aef36f2541c63dac8e83c2e0823619c385c5f51550b8ec7d65c786e979b2b9c2666c0f39522157ac2d"
+
+[update]
+[update.modrinth]
+mod-id = "EivZOK5a"
+version = "3FqmksAo"
