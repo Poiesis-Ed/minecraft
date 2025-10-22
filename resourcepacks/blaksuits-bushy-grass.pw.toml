@@ -1,0 +1,13 @@
+name = "BlakSuit's Bushy Grass"
+filename = "§a§lBlakSuit's Bushy Grass§r§0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z9vQ6tYK/versions/DIKf0cOy/%C2%A7a%C2%A7lBlakSuit%27s%20Bushy%20Grass%C2%A7r%C2%A70.zip"
+hash-format = "sha512"
+hash = "a9530031d859e88b6b7879c5a6af6961e2ec098499aab5d36e1555bd15a23eb91a1d2c2fcfbe926a296bc48c26df3b610df0891c70089aefa783169946d8a1e3"
+
+[update]
+[update.modrinth]
+mod-id = "Z9vQ6tYK"
+version = "DIKf0cOy"

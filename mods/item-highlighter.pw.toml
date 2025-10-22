@@ -1,6 +1,6 @@
 name = "Item Highlighter"
 filename = "Highlighter-1.21-neoforge-1.1.11.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/cVNW5lr6/versions/AsQ0Y2G9/Highlighter-1.21-neoforge-1.1.11.jar"

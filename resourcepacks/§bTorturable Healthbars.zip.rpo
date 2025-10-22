@@ -1,0 +1,16 @@
+{
+    crackingarmor: "active",
+    crackingshield: "active",
+    splashes: "inactive",
+    animation: {
+        animatedblood: "active",
+        breezewind: "active",
+        drowningbubbles: "active"
+    },
+    builtinaddons: {
+        greenbleed: "active",
+        illskills: "active",
+        humanoid: "inactive",
+        pacif: "inactive"
+    }
+}

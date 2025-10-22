@@ -1,0 +1,6 @@
+#Wed Oct 01 21:52:17 PDT 2025
+CHROMATIC_ABBERATION=true
+DOF=true
+FOG=false
+shadowDistance=512.0
+shadowMapResolution=4096

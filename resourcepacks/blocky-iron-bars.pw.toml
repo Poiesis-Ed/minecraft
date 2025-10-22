@@ -1,0 +1,13 @@
+name = "Blocky 3D Bars"
+filename = "blocky-iron-bars.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y92Mn1BX/versions/JJmkrATl/blocky-iron-bars.zip"
+hash-format = "sha512"
+hash = "361341256c1a8dbdd26318e568a5630e85489ba1e195c3e6f2aa59a5f81c5a2fe30aec161b4fe48fa1ab8a490c15be000de6d8e880b9366e29280cee4b93e337"
+
+[update]
+[update.modrinth]
+mod-id = "Y92Mn1BX"
+version = "JJmkrATl"

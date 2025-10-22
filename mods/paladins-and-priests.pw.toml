@@ -1,13 +1,13 @@
 name = "Paladins & Priests (RPG Series)"
-filename = "paladins-neoforge-2.6.0+1.21.1.jar"
+filename = "paladins-neoforge-2.6.2+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FxXkHaLe/versions/kGvpJ7dV/paladins-neoforge-2.6.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/FxXkHaLe/versions/BDPxi0mo/paladins-neoforge-2.6.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "f0834424cf4a060a8948bab8fff03c7b0fd5a67a776aefd45b848f1d099ce27a0a65f45f817f1e06932e9f274d74cfa12f1704f74f31f5e277c1c0722c8dd994"
+hash = "da9b449b3169f07dfc86481d060a847899d47e8555127b66303b84dfa0ebe2a9707f7a41dc97ffd757dfbc5f61d64b160743996b7a8196c30e1624e804b6e53e"
 
 [update]
 [update.modrinth]
 mod-id = "FxXkHaLe"
-version = "kGvpJ7dV"
+version = "BDPxi0mo"

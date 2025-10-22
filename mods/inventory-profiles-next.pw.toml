@@ -1,6 +1,6 @@
 name = "Inventory Profiles Next"
 filename = "InventoryProfilesNext-neoforge-1.21-2.2.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/D6lglknJ/InventoryProfilesNext-neoforge-1.21-2.2.0.jar"

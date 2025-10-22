@@ -1,0 +1,13 @@
+name = "Animated+"
+filename = "Animated+.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OoSvI3in/versions/2pz4Zk0u/Animated%2B.zip"
+hash-format = "sha512"
+hash = "90af2eebb003746708134f875e95fbee60df02132794ec5d479ffc515c4f5971b5eceec508d5cd2d55bc7902ff7826fce661269b6e33cb3b277ef0f7b5d748d4"
+
+[update]
+[update.modrinth]
+mod-id = "OoSvI3in"
+version = "2pz4Zk0u"

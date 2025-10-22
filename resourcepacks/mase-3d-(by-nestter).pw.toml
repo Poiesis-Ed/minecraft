@@ -1,0 +1,13 @@
+name = "Mace 3D"
+filename = "3dMase.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1K3EfTy7/versions/pjeYkThK/3dMase.zip"
+hash-format = "sha512"
+hash = "00e31c43862bf8b4cf65651a546d6d07e2ce2446b5298f2fef1e1550dc7c2c31af520682b8188bf64f5a77d25f6708c9df1a95f4de2dee37c460e1b0ec1903a0"
+
+[update]
+[update.modrinth]
+mod-id = "1K3EfTy7"
+version = "pjeYkThK"
