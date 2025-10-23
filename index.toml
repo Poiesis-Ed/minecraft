@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mc/docker-compsoe.yml"
+hash = "9bd1e0904327bec8843e59f0f7fa3c10475b4d6005e473b1640106cda295ad8a"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c96571baf1df830a3f9f95952b57f8390b300554261870a9273f6f636e0dbc82"
 metafile = true
@@ -127,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "f8db26abbe05c44bef371252963bb6991d66a0f1d8a4e78377b77f146907798e"
+hash = "4d9264c9550ed32948bd6ea78cb53ba80dd01da8e6c10fa8de4fa52c1bff4d8d"
 metafile = true
 
 [[files]]
