@@ -1,6 +1,6 @@
 name = "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)"
 filename = "ears-neoforge-1.21-1.4.7.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/Dxc2NR3x/ears-neoforge-1.21-1.4.7.jar"

@@ -1,6 +1,6 @@
 name = "[EMF] Entity Model Features"
 filename = "entity_model_features_1.21-neoforge-3.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/qexsPT1y/entity_model_features_1.21-neoforge-3.0.1.jar"
