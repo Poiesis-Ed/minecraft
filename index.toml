@@ -156,6 +156,11 @@ hash = "92b785cf953bb09b2629dde4d160c47cfabafad5c725976d69dcc524dc1add58"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-pokenav.pw.toml"
+hash = "17ce70a479aab1d29bb33b5f02cf644b14e530b8413b063156cfcf29369d1538"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-safepastures.pw.toml"
 hash = "a6c5a1eebefa74d91b3ba528a812b586acf1c29a416f09ef9f631015f3d73f3c"
 metafile = true
