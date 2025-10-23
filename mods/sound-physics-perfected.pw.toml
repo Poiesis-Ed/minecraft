@@ -1,6 +1,6 @@
 name = "Sound Physics Perfected"
 filename = "sound_physics_perfected-1.11.4+1.21.1-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/KS6Hbu9Z/versions/WLsukJ1r/sound_physics_perfected-1.11.4%2B1.21.1-neoforge.jar"

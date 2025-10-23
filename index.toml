@@ -1077,7 +1077,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "45d2c5025e43e42fc03839d1e1fdbb517bb30bbc86acf72ebb1fa30ad09304a3"
+hash = "58d876cb8e8a48e2376f50f9adede05e2aac244fce238322830585f9c4745fbc"
 metafile = true
 
 [[files]]
