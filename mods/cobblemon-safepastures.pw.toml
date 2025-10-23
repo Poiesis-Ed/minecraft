@@ -1,6 +1,6 @@
 name = "Cobblemon: SafePastures"
 filename = "SafePastures-1.1.0+1.21.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/qpe01spE/versions/ksQrqbFQ/SafePastures-1.1.0%2B1.21.1.jar"

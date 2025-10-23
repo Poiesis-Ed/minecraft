@@ -1,6 +1,6 @@
 name = "BlakSuit's Bushy Grass"
 filename = "§a§lBlakSuit's Bushy Grass§r§0.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Z9vQ6tYK/versions/DIKf0cOy/%C2%A7a%C2%A7lBlakSuit%27s%20Bushy%20Grass%C2%A7r%C2%A70.zip"

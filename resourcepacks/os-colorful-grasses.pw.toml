@@ -1,6 +1,6 @@
 name = "Os' Colorful Grasses"
 filename = "Os' Colorful Grasses (Mix).zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/O2zhH8n8/versions/sluWV30f/Os%27%20Colorful%20Grasses%20%28Mix%29.zip"

@@ -1,6 +1,6 @@
 name = "Flower Clusters"
 filename = "Flower Clusters 1.1.2.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/rKubepOk/versions/cwxY9zGD/Flower%20Clusters%201.1.2.zip"

@@ -1,6 +1,6 @@
 name = "Enchanting Table Magic Circle"
 filename = "Enchanting Table Magic Circle Blue v1.4.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/gLbwPaHh/versions/oFEL9yA3/Enchanting%20Table%20Magic%20Circle%20Blue%20v1.4.zip"

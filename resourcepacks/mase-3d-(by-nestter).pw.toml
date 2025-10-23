@@ -1,6 +1,6 @@
 name = "Mace 3D"
 filename = "3dMase.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/1K3EfTy7/versions/pjeYkThK/3dMase.zip"

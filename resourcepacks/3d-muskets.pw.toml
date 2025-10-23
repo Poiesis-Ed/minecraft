@@ -1,6 +1,6 @@
 name = "3D Muskets"
 filename = "3D-muskets-1.1.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/CnHKbzuv/versions/8CcAm520/3D-muskets-1.1.zip"

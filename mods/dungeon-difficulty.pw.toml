@@ -1,6 +1,6 @@
 name = "Dungeon Difficulty"
 filename = "dungeon_difficulty-neoforge-3.6.3+1.21.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/ENZmbSFZ/versions/QvKNjdn8/dungeon_difficulty-neoforge-3.6.3%2B1.21.1.jar"

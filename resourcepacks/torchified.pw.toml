@@ -1,6 +1,6 @@
 name = "Torchified"
 filename = "Torchified - VT smaller utilities.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/L6PhjGDV/versions/PweBUO3T/Torchified%20-%20VT%20smaller%20utilities.zip"

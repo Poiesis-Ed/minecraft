@@ -1,6 +1,6 @@
 name = "3D Sugar Cane"
 filename = "3D Sugar Cane.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/pT71mSWA/versions/VZS6efwo/3D%20Sugar%20Cane.zip"

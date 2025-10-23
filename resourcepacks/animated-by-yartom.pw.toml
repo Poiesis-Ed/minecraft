@@ -1,6 +1,6 @@
 name = "Animated+"
 filename = "Animated+.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/OoSvI3in/versions/2pz4Zk0u/Animated%2B.zip"

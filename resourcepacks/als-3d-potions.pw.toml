@@ -1,6 +1,6 @@
 name = "AL's 3D Potions"
 filename = "AL's 3D Potions 1.1.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/B5ROAikr/versions/MSIB0nMP/AL%27s%203D%20Potions%201.1.zip"

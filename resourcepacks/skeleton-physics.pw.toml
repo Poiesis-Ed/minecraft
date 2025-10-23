@@ -1,6 +1,6 @@
 name = "Skeleton Physics"
 filename = "Skeleton Physics.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/l9VrawNM/versions/J1nTfMKa/Skeleton%20Physics.zip"

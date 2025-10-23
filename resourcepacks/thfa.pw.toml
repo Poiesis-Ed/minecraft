@@ -1,6 +1,6 @@
 name = "Torturable Healthbars, but with FA"
 filename = "§bTorturable Healthbars with FA.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/mQpUi57Q/versions/5GP4Y6oE/%C2%A7bTorturable%20Healthbars%20with%20FA.zip"

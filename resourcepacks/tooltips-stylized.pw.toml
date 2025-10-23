@@ -1,6 +1,6 @@
 name = "ToolTips Stylized"
 filename = "ToolTips-Stylized_v1.2b1_1.20+.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/mC2IML84/versions/uplHIdBF/ToolTips-Stylized_v1.2b1_1.20%2B.zip"

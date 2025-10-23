@@ -1,6 +1,6 @@
 name = "Particular ✨ Reforged"
 filename = "particular-1.21.1-NeoForge-1.1.6.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/pYFUU6cq/versions/q9E2B44D/particular-1.21.1-NeoForge-1.1.6.jar"

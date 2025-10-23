@@ -1,6 +1,6 @@
 name = "Cobblemon 3D Poke Rods"
 filename = "Cobblemon 3D Poké Rods 1.0.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/7OFEgDS3/versions/L4DqwCP9/Cobblemon%203D%20Pok%C3%A9%20Rods%201.0.zip"

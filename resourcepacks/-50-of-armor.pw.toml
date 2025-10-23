@@ -1,6 +1,6 @@
 name = "- 50% of armor"
 filename = "-50% of armor 1.21.1.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/va2igNWt/versions/VgKsIaSd/-50%25%20of%20armor%201.21.1.zip"

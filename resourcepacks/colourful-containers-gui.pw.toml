@@ -1,6 +1,6 @@
 name = "Colourful containers GUI"
 filename = "§lcolourful containers§8.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/L85p0yMA/versions/KzCnmMXx/%C2%A7lcolourful%20containers%C2%A78.zip"

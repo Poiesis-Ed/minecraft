@@ -1,6 +1,6 @@
 name = "Complementary Shaders - Unbound"
 filename = "ComplementaryUnbound_r5.6.1.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/R6NEzAwj/versions/LXrX6oqm/ComplementaryUnbound_r5.6.1.zip"

@@ -1,6 +1,6 @@
 name = "Blocky 3D Bars"
 filename = "blocky-iron-bars.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Y92Mn1BX/versions/JJmkrATl/blocky-iron-bars.zip"

@@ -1,6 +1,6 @@
 name = "Armory Conglomery"
 filename = "armory-conglomery-v2.1.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uJC1fwNH/versions/xtEMr5VU/armory-conglomery-v2.1.zip"

@@ -1,6 +1,6 @@
 name = "libIPN"
 filename = "libIPN-neoforge-1.21-6.6.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/onSQdWhM/versions/6r4Oasoa/libIPN-neoforge-1.21-6.6.0.jar"

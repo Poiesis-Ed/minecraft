@@ -1,6 +1,6 @@
 name = "Enchantment Glows"
 filename = "Enchantment Glows v1.4.1 1.21+.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/m3tqASqD/versions/tQVRILtX/Enchantment%20Glows%20v1.4.1%201.21%2B.zip"

@@ -1,6 +1,6 @@
 name = "Better Enchanting Table"
 filename = "Better Enchanting Table Blue v1.2.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/d9PIjVLE/versions/WwzIx6WL/Better%20Enchanting%20Table%20Blue%20v1.2.zip"

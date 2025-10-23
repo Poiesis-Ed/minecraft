@@ -1,6 +1,6 @@
 name = "Lux V1"
 filename = "Lux_v1.2.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/DiGQENDV/versions/dP6cNcuM/Lux_v1.2.zip"

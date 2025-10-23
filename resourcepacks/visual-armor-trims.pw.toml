@@ -1,6 +1,6 @@
 name = "Visual: Armor Trims"
 filename = "visual_armor_trims_v2.1_1.21.X.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/tPtjib62/versions/eDbF1DEW/visual_armor_trims_v2.1_1.21.X.zip"

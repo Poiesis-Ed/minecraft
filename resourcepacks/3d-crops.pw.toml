@@ -1,6 +1,6 @@
 name = "3D crops Revamped"
 filename = "crops-3d(2).zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/PgpTtNoI/versions/iKYRZwnm/crops-3d%282%29.zip"

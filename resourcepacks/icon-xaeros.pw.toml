@@ -1,6 +1,6 @@
 name = "Icon Xaero's"
 filename = "Icon Xaero's 1.21.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/LWGq2eg6/versions/gOX3ZiSy/Icon%20Xaero%27s%201.21.zip"
