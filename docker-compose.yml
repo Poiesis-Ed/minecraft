@@ -4,7 +4,7 @@ services:
   server:
     image: ghcr.io/codecraft3r/packwiz-container:main
     environment:
-      - GH_USERNAME=poiesis-ed
+      - GH_USER=poiesis-ed
       - GH_REPO=minecraft
       - MB_RAM=6144
     volumes:
@@ -27,4 +27,5 @@ services:
 volumes:
 
   world-data:
+
 
