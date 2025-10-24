@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
@@ -481,6 +481,16 @@ hash = "2a587ebd6dda118f58e81dee4967be814162b98fab353a763d46401e1dea586c"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "553e301e81967d1a5868b53f765679d976bb0dfc811bc1b24c31c6c162fac391"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "753c41272809ce6b722d8685f1f1a07b5d28add911f06d951c8b2430907196b6"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "11c4ac6932c14f3ad5a2c63d7f39eee1e9a2a91ffc079d5bd917c9aa381abdfb"
 metafile = true
@@ -696,6 +706,11 @@ hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+metafile = true
+
+[[files]]
 file = "mods/lukis-ancient-cities.pw.toml"
 hash = "d71155c319e261db4ec485e87d35d8940de584839f93be3bc24c72ccdfe5e800"
 metafile = true
@@ -863,6 +878,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "a52c2b505827a549dfabebd6586591910fcf6e1a62dbb27604aacc96d412d5e4"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "9d4e4bd1007b5529b2b35439d00d74f0554f2bd8ae0d4d72aeab9d8063c60beb"
 metafile = true
 
 [[files]]
