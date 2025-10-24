@@ -706,11 +706,6 @@ hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
-metafile = true
-
-[[files]]
 file = "mods/lukis-ancient-cities.pw.toml"
 hash = "d71155c319e261db4ec485e87d35d8940de584839f93be3bc24c72ccdfe5e800"
 metafile = true
