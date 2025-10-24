@@ -491,6 +491,11 @@ hash = "753c41272809ce6b722d8685f1f1a07b5d28add911f06d951c8b2430907196b6"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "5f11633ae1897024232fa5aab7cd199f01deef7e939adabcbff660c92add4b28"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "11c4ac6932c14f3ad5a2c63d7f39eee1e9a2a91ffc079d5bd917c9aa381abdfb"
 metafile = true
