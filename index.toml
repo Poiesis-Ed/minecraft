@@ -1056,11 +1056,6 @@ hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
-metafile = true
-
-[[files]]
 file = "mods/shield-api.pw.toml"
 hash = "ab25e2ea8dae00432591f2e8f82a376b978c5253d8dd3698bfe8c66721856a7f"
 metafile = true
