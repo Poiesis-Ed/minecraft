@@ -42,11 +42,6 @@ hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
 metafile = true
 
 [[files]]
-file = "mods/almanac.pw.toml"
-hash = "6b1de417a7fa934847bf002b75acd00d48637bb3484ea468799354b612658775"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "d12f84f3360a25baa9d4085de668cae6dc990a709bc02a82eab184a647e96586"
 metafile = true
@@ -202,11 +197,6 @@ hash = "63d78f5b82e034c0ba8dde7baeaa941466996125bbd67f996aab2f3e279afa4b"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-safepastures.pw.toml"
-hash = "dc57f84629e7d62af6afed5f3ce52ba73f3ccbbb6f047977bc49822939c42ab5"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
 hash = "f71e6b92301b7abb8925f2482131ed1b9c2f77dfe46a69ba373670ac4f5befac"
 metafile = true
@@ -329,11 +319,6 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
-metafile = true
-
-[[files]]
-file = "mods/dungeon-difficulty.pw.toml"
-hash = "1c4e932fe3a6b084fecf48d026372efd83840476eb931cfb383a6973137882b1"
 metafile = true
 
 [[files]]
@@ -742,11 +727,6 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "f8edc1d5fadb1b65f8f869893ec637ec8a5e5f92fb0a7f140e9e62977668f895"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
@@ -879,16 +859,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
-metafile = true
-
-[[files]]
-file = "mods/nether-portal-spread.pw.toml"
-hash = "dd7e4c7a1b0ff52cf002ad2e24b4c128c9398b83102c6f10a23afa29a902d69f"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
@@ -1037,21 +1007,6 @@ hash = "a7a0bc3eb9b2b4044f683c338546ccbe5e03f7151985dd518252296737ae78d5"
 metafile = true
 
 [[files]]
-file = "mods/rightclickharvest.pw.toml"
-hash = "3165000789e965102d58efe87dd0af170eba28462c3ecb53c1192592c92139a7"
-metafile = true
-
-[[files]]
-file = "mods/roadarchitect-encounters.pw.toml"
-hash = "64c9788139b3c79f02e439122ba7260bf5928cfa1654923cc5b6e10588415568"
-metafile = true
-
-[[files]]
-file = "mods/roadarchitect.pw.toml"
-hash = "2f47042d251118cf5e2032cad301d3fe307beb80b4e7890e773906f968cd9851"
-metafile = true
-
-[[files]]
 file = "mods/rogues-and-warriors.pw.toml"
 hash = "3ef79014deb7a8e607b3a41644d1daebeb05b86a3bdbcef141256c34889569d5"
 metafile = true
@@ -1119,11 +1074,6 @@ metafile = true
 [[files]]
 file = "mods/small-ships.pw.toml"
 hash = "5f0d17d236aad8f111b519c006988c8bf536ee569028c0a34690c4cc229b6403"
-metafile = true
-
-[[files]]
-file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "918104735fe4da7e223394b5f76c0f063178b34e653fab7135ce451fd08d0746"
 metafile = true
 
 [[files]]
@@ -1232,11 +1182,6 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
-metafile = true
-
-[[files]]
 file = "mods/the-mad-hatter.pw.toml"
 hash = "318bf8a7abbd0805286776036cfbb49d2063d7f425a192872738add78e9640ab"
 metafile = true
@@ -1319,46 +1264,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "634130ab233121c290fdb2567afd3939af6d98760c11f14db0426b64b8955894"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-dungeons.pw.toml"
-hash = "4c2830674a08ec9f10af13e4d259aa60158bd306a3996d935e678281ec0cb5fd"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "ee63a5958eb1e0238257e2064d917bdaf8e528a47904bdfbe04a5758a1537e9f"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "9492d0854c51570bf2a6bace6267262e7573b94c40d721348996617e5d99480a"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds.pw.toml"
-hash = "1a33e6d64e88ad59b65d126c6457d582e62724167349ea184eb237435298985e"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-witch-huts.pw.toml"
-hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
-metafile = true
-
-[[files]]
-file = "mods/zombie-awareness.pw.toml"
-hash = "25f44960f8a331cafb3446c9388f959989aa01bd53a17a38766967f6cf20bb60"
 metafile = true
 
 [[files]]
