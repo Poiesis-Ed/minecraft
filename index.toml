@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cobblemon/main.json"
+hash = "7ae5399e6e3e3f34b2aebf70e6c3fea66ce35c55e941b2f589d291d4862801c6"
+
+[[files]]
+file = "config/cobblemon/spawning/best-spawner-config.json"
+hash = "7a8c573f1798b65e7c778357505fca66a4ba59487fcf5baeaa1d115a19c198bd"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "1efb81e5435157f1e5a9ac54d9e1619ef7921f2fdf2db2a0f5280e910ab01586"
+
+[[files]]
+file = "config/mega_showdown-common.toml"
+hash = "ba8b398d30f91fd997c6b1270df52da5856de9f199837c4599b98bb3e45e0cb7"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7b5fba1b2499c191160be6b1b01c54ace077ae7d3c5228ae4af4d360e3d0a336"
 metafile = true
@@ -156,6 +172,11 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-box-link.pw.toml"
+hash = "bd507376d642397a91270f81e2107a0100a1124f001e96c8ff3a9fb47ed4e82c"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-create-industries.pw.toml"
 hash = "7bb6f3da4e4809f94878259c98a10795cea56ecd89c97510d89b2c0852967044"
 metafile = true
@@ -166,8 +187,18 @@ hash = "92b785cf953bb09b2629dde4d160c47cfabafad5c725976d69dcc524dc1add58"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-myths-and-legends-sidemod.pw.toml"
+hash = "d15eb218792f25a031065d3ada34b1493fc3adff0286f44f2f7b6760e466b06c"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "17ce70a479aab1d29bb33b5f02cf644b14e530b8413b063156cfcf29369d1538"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-ride-on.pw.toml"
+hash = "63d78f5b82e034c0ba8dde7baeaa941466996125bbd67f996aab2f3e279afa4b"
 metafile = true
 
 [[files]]
@@ -487,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "753c41272809ce6b722d8685f1f1a07b5d28add911f06d951c8b2430907196b6"
+hash = "eb91dc8a79ecc469d73d567e7ebcd80af4bd70b1b58217769111d3bf08bc669c"
 metafile = true
 
 [[files]]
@@ -662,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "57571e484b3020d4dc2e7e4568c74faa8e5116b88909f028d7775a421f87ea75"
+hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
 metafile = true
 
 [[files]]
@@ -703,6 +734,11 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "b821efc793dd7308be6788095bea26a2a0479f9a3ddc3b0d6a6a2af351153fc0"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
@@ -1186,6 +1222,11 @@ hash = "75d848265975d8a6c03cae062adf57c2d37460f2fa0de0eb3a61cf7186cdebe4"
 metafile = true
 
 [[files]]
+file = "mods/surveyor.pw.toml"
+hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
@@ -1565,6 +1606,10 @@ hash = "5d9b56ace2d99b88b62b7b3548fb884435593ed03a551071d2bfdfe88dae5f8c"
 [[files]]
 file = "resourcepacks/§lcolourful containers§8.zip.rpo"
 hash = "0c3d50ede71ee6a62455b8abd6a4357983181bcef18f61144bff0cfc58740051"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt"
+hash = "c4716ccae2accde02e9ad339005918097d3f9086f1bc6c5c53b599f2bc77fb1b"
 
 [[files]]
 file = "shaderpacks/Lux_v1.2.zip.txt"

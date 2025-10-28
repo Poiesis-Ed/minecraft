@@ -1,18 +1,36 @@
-version: '3.8'
-name: minecraft
+version: "3.8"
+
 services:
-  server:
-    image: ghcr.io/codecraft3r/packwiz-container:main
-    environment:
-      - GH_USER=poiesis-ed
-      - GH_REPO=minecraft
-      - MB_RAM=6144
+
+  mc:
     volumes:
-      - world-data:/mnt/server/world
-      - /root/mc-globals/whitelist.json:/mnt/server/whitelist.json
+        - ./data:/data
+    environment:
+        - EULA=TRUE
+        - MEMORY=6G
+        - RCON_PASSWORD=packwiz
+        - TYPE=NEOFORGE
+        - VERSION=1.21.1
+        - PACKWIZ_URL=https://raw.githubusercontent.com/codecraft3r/mc-dev-pack/refs/heads/main/pack.toml
+        - ENABLE_RCON=TRUE
+    image: itzg/minecraft-server
+    networks:
+      lan:
+      mc-net:
+        aliases:
+          - server
     ports:
       - "25565:25565"
-    restart: unless-stopped
+    expose:
+      - "25575"
+    restart: always
+    healthcheck:
+      test: mc-health
+      start_period: 5m
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
   backup:
     image: itzg/mc-backup
     environment:
@@ -21,11 +39,20 @@ services:
       RCON_PASSWORD: packwiz
       INITIAL_DELAY: 10m
     volumes:
-      - world-data:/data:ro
-      - /root/mc-backup:/backups
+      - ./data:/data:ro
+      - ./backup:/backups
+    networks:
+      - mc-net
+    restart: always
+    depends_on:
+      mc:
+        condition: service_healthy
+    deploy:
+      resources:
+        limits:
+          cpus: '0.25'
 
-volumes:
-
-  world-data:
-
-
+networks:
+  mc-net:
+  lan:
+    driver: bridge

@@ -1,11 +1,11 @@
-name = "poiesis"
+name = "Cobblemon"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "919a0fc92e5c5226cd44552fe3021aaebe0292933b2ab65dffa0ca5d8d94bf24"
+hash = "e7b35773bb4fdb888cbf4cfe4a523e674d17745949eb59261fc006e015f3eb51"
 
 [versions]
 minecraft = "1.21.1"
