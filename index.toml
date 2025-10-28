@@ -122,6 +122,11 @@ hash = "30ffe79b0347aa0c24e2c6ad917457f1ccae75423b96c8d30c7c8c372fb90cc5"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "fbb4954b6bcfb8a492b74cbd1d913fd27f481e0cab1ab9371751e1e1843e3da1"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "f56d22024434828a008f8558a30a6d765e61a051550e32dc53960053716c0fd1"
 metafile = true
@@ -174,6 +179,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-create-industries.pw.toml"
 hash = "7bb6f3da4e4809f94878259c98a10795cea56ecd89c97510d89b2c0852967044"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-let-me-spawn.pw.toml"
+hash = "cf46c14b32635a166931acde5d685a5b18d3937ee9c1cfc3c9293b8cb66c10e4"
 metafile = true
 
 [[files]]
