@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MythsAndLegends/config.toml"
+hash = "2c1431e1b96dcc1fe9f0c4a4b005b4af2be575d0a7ae5ef65ca60b1e82234545"
+
+[[files]]
 file = "config/cobblemon/main.json"
 hash = "7ae5399e6e3e3f34b2aebf70e6c3fea66ce35c55e941b2f589d291d4862801c6"
 
 [[files]]
 file = "config/cobblemon/spawning/best-spawner-config.json"
-hash = "c64741593e163ff99a77b1718f7149dd2fb6e14c1d26e966d73c3cbdd3d28de3"
+hash = "7a8c573f1798b65e7c778357505fca66a4ba59487fcf5baeaa1d115a19c198bd"
 
 [[files]]
 file = "config/lootr-common.toml"
@@ -15,6 +19,10 @@ hash = "1efb81e5435157f1e5a9ac54d9e1619ef7921f2fdf2db2a0f5280e910ab01586"
 [[files]]
 file = "config/mega_showdown-common.toml"
 hash = "ba8b398d30f91fd997c6b1270df52da5856de9f199837c4599b98bb3e45e0cb7"
+
+[[files]]
+file = "config/spawn_notification.json"
+hash = "7995a3fe82793aaa319e036bc030a2ab2879340f30ad8b709cbc90322f6f3ab9"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -139,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
+metafile = true
+
+[[files]]
+file = "mods/cataclysmic-combat.pw.toml"
+hash = "c702a841526b4f214559f0d7f6550c11683423ca1e95df49d4e92582bec8d8a1"
 metafile = true
 
 [[files]]
