@@ -705,6 +705,11 @@ hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "6f1883653a606626e1e32654439c5a2b3a48a385b22290152a624009cd744492"
+metafile = true
+
+[[files]]
 file = "mods/l2library.pw.toml"
 hash = "6d056891bc47b3fca6e8aced5207a6c1389899d1616c2b21559bc59cab2bf56d"
 metafile = true
@@ -1017,6 +1022,11 @@ metafile = true
 [[files]]
 file = "mods/respackopts.pw.toml"
 hash = "a7a0bc3eb9b2b4044f683c338546ccbe5e03f7151985dd518252296737ae78d5"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
