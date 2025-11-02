@@ -13,6 +13,22 @@ file = "config/cobblemon/spawning/best-spawner-config.json"
 hash = "7a8c573f1798b65e7c778357505fca66a4ba59487fcf5baeaa1d115a19c198bd"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/contracts.snbt"
+hash = "aef124affd3c017b6351268d52e5b13fd0cd6387ce3b6e33037cd47fde03057b"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "df92fd6b31e38ecbe9761f6ca2260e1b19eb9bcce38e9116565733ad47078b76"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "a45a26ef6f50c5176a25d644041fcc8a731736819f95598efacb06eb26dcc57f"
+
+[[files]]
 file = "config/lootr-common.toml"
 hash = "1efb81e5435157f1e5a9ac54d9e1619ef7921f2fdf2db2a0f5280e910ab01586"
 
@@ -216,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "17ce70a479aab1d29bb33b5f02cf644b14e530b8413b063156cfcf29369d1538"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-quests.pw.toml"
+hash = "bf88bd18d28dbd1bd34f5db7a188463dce4ae3868c969566bc0179c3eef2ce78"
 metafile = true
 
 [[files]]
@@ -530,12 +551,27 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "eb91dc8a79ecc469d73d567e7ebcd80af4bd70b1b58217769111d3bf08bc669c"
+hash = "ba57e7495c6d4a0fc1b9d365a8d55552071d49a247bb38114d6612f8d9bc2170"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "4c815298380c86c4dffb14f4db3ff6159a1935629cfda47b769550d66585f16b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "ec32ed4418310d282eedba77f3e08898037e2a1b7ed904ba9d00971d0aa4b4c9"
 metafile = true
 
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "5f11633ae1897024232fa5aab7cd199f01deef7e939adabcbff660c92add4b28"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "daaf72bca7eaa9dc5db24e5bb4101cfd7c36379fa3cd73d41feb1a82a77bf76f"
 metafile = true
 
 [[files]]
