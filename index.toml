@@ -37,6 +37,10 @@ file = "config/mega_showdown-common.toml"
 hash = "ba8b398d30f91fd997c6b1270df52da5856de9f199837c4599b98bb3e45e0cb7"
 
 [[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "d9785f0b976c67b3285820673f6065c57216cf2c3e47f9b7adf41d194ba4d471"
+
+[[files]]
 file = "config/spawn_notification.json"
 hash = "7995a3fe82793aaa319e036bc030a2ab2879340f30ad8b709cbc90322f6f3ab9"
 
