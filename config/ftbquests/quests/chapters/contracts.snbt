@@ -11,7 +11,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			can_repeat: true
+			can_repeat: false
 			id: "7192F408B9524C46"
 			rewards: [{
 				count: 2
@@ -48,7 +48,7 @@
 			y: -3.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:fire_stone"
 			}
@@ -91,7 +91,7 @@
 			y: -3.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "arsenal:unique_claymore_2"
 			}
@@ -134,7 +134,7 @@
 			y: -3.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:flying_gem"
 			}
@@ -174,7 +174,7 @@
 			y: -1.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:poison_gem"
 			}
@@ -214,7 +214,7 @@
 			y: -1.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:ground_gem"
 			}
@@ -254,7 +254,7 @@
 			y: -1.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:rock_gem"
 			}
@@ -294,7 +294,7 @@
 			y: -1.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:bug_gem"
 			}
@@ -334,7 +334,7 @@
 			y: -1.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:ghost_gem"
 			}
@@ -374,7 +374,7 @@
 			y: -1.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:fighting_gem"
 			}
@@ -414,7 +414,7 @@
 			y: -1.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:steel_gem"
 			}
@@ -454,7 +454,7 @@
 			y: -1.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:normal_gem"
 			}
@@ -494,7 +494,7 @@
 			y: -1.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:fire_gem"
 			}
@@ -534,7 +534,7 @@
 			y: -0.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:water_gem"
 			}
@@ -574,7 +574,7 @@
 			y: -0.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:grass_gem"
 			}
@@ -614,7 +614,7 @@
 			y: -0.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:electric_gem"
 			}
@@ -654,7 +654,7 @@
 			y: -0.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:psychic_gem"
 			}
@@ -694,7 +694,7 @@
 			y: -0.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:ice_gem"
 			}
@@ -734,7 +734,7 @@
 			y: -0.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:dragon_gem"
 			}
@@ -774,7 +774,7 @@
 			y: -0.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:dark_gem"
 			}
@@ -814,7 +814,7 @@
 			y: -0.5d
 		}
 		{
-			can_repeat: true
+			can_repeat: false
 			icon: {
 				id: "cobblemon:fairy_gem"
 			}
