@@ -49,6 +49,10 @@ file = "kubejs/server_scripts/crafting.js"
 hash = "e6aa25bbe349bdf65c4b1d37a9d1aa19f0d2dfb77b7b5bb17c7fd4fff756e6ca"
 
 [[files]]
+file = "kubejs/server_scripts/quest-reset.js"
+hash = "5feaf0a0111afc4614cccd476e44ded9956d5bc9b3b5f5d9bd782471a97b18ae"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7b5fba1b2499c191160be6b1b01c54ace077ae7d3c5228ae4af4d360e3d0a336"
 metafile = true
