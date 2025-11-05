@@ -14,19 +14,19 @@ hash = "7a8c573f1798b65e7c778357505fca66a4ba59487fcf5baeaa1d115a19c198bd"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
+hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/contracts.snbt"
-hash = "9cd2444ea16ed1d082c4e1b577b27ba2d550b521879b569d3aefcde2b3acf95e"
+hash = "15072a5b0cf1187e38701e434362f94c4583aa78b03d68549ddbdf0bc0c6af11"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "df92fd6b31e38ecbe9761f6ca2260e1b19eb9bcce38e9116565733ad47078b76"
+hash = "d7dd511fa89cc9066374f537d8e9259d6caff8fe7db0a0a04db3af393100e0a4"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "a45a26ef6f50c5176a25d644041fcc8a731736819f95598efacb06eb26dcc57f"
+hash = "acd67f42e16dcc340431ed6f9b1e65ee20ea1725accc13d9acdff182a69ff0c6"
 
 [[files]]
 file = "config/lootr-common.toml"
