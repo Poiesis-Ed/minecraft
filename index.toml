@@ -40,6 +40,11 @@ hash = "8aac17572b78194ed9e51bb0e9f06d6e65ada660958fcd40c1dcf205dfe70f13"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
@@ -337,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "bc9449306cb2c32f16347779291d68e5fba67f85d7aca04b4b9cc1c033ec4083"
+metafile = true
+
+[[files]]
+file = "mods/musket-mod.pw.toml"
+hash = "359f98f5d3028b8f9383258479cd2852054ad3475e18621b63b50864ff5852eb"
 metafile = true
 
 [[files]]
