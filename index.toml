@@ -40,6 +40,11 @@ hash = "8aac17572b78194ed9e51bb0e9f06d6e65ada660958fcd40c1dcf205dfe70f13"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
 metafile = true
@@ -192,6 +197,21 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "2e8d41553147e5470a9f31303cb440f106cefde0dfc13c30cf69b8248b70644c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "7fde0004969ce0abb8966ed51f8b1e5714ecfef06a2ac45900ceb1c6fc54d4b2"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "3b077d8a8344ab91ca90551a781ad1eadc99c119a387ce7481e141322b6b8951"
 metafile = true
 
 [[files]]
