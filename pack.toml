@@ -1,12 +1,12 @@
-name = "Cobblemon"
+name = "village pack"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "379ed314842fb441dcb9789c750125c5c6251d4ed1d9451ad99b02fa59ae788b"
+hash = "19be4a94d1dbab708612ed667e353da64e27994ded2921ace19f46babf46d619"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.211"
+neoforge = "21.1.215"
