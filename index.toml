@@ -135,6 +135,11 @@ hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "02d3c2c9758fe92e9010111553cbdc4edd009ffc543af0eac41b7b016a7047d1"
 metafile = true
