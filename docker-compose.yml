@@ -10,8 +10,9 @@ services:
         - MEMORY=6G
         - RCON_PASSWORD=packwiz
         - TYPE=NEOFORGE
+        - NEOFORGE_VERSION=21.1.216
         - VERSION=1.21.1
-        - PACKWIZ_URL=https://raw.githubusercontent.com/codecraft3r/mc-dev-pack/refs/heads/main/pack.toml
+        - PACKWIZ_URL=https://raw.githubusercontent.com/Poiesis-Ed/minecraft/refs/heads/main/pack.toml
         - ENABLE_RCON=TRUE
     image: itzg/minecraft-server
     networks:

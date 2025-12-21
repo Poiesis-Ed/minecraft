@@ -1,0 +1,13 @@
+name = "Cobblemon Spawn Chaining"
+filename = "spawnchaining-neoforge-1.7.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/63Gg7vnB/versions/sIaJlqHY/spawnchaining-neoforge-1.7.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "776e8c634b7c315e2ab452f784e067e6ce8c55180f9e9a69038e97502d1cb00124c40484d08c3ba08d5b5e61b48dfa43e4214a236a01d22fb21763fd5d00d368"
+
+[update]
+[update.modrinth]
+mod-id = "63Gg7vnB"
+version = "sIaJlqHY"

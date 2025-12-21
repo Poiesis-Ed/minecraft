@@ -1,0 +1,13 @@
+name = "Cobblemore Lib"
+filename = "cobblemore_lib-neoforge-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VYP2vmDS/versions/I2gsCsYx/cobblemore_lib-neoforge-1.2.5.jar"
+hash-format = "sha512"
+hash = "b2305db362a0eaf26147df0d31505b26e79d0bc05699e6c7a80ed780a58bb2e24ee0508fd528e4132294c8d099e37428105918af9b21ff47297b5e282d310f49"
+
+[update]
+[update.modrinth]
+mod-id = "VYP2vmDS"
+version = "I2gsCsYx"
