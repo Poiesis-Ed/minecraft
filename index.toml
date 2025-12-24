@@ -6,11 +6,15 @@ hash = "07be877e33ab6eb0c4629f30527b39f7cc77046534a053632693f70152385f54"
 
 [[files]]
 file = "config/cobblemon/spawning/best-spawner-config.json"
-hash = "e1dfdd976a38f7314e1656a7ed85048c8a952cbecb737638da27c8d44d61ae6d"
+hash = "58353d77b507c041058ee7a8954ea45d88ff31d32a4e18a9e64990d75a250e42"
 
 [[files]]
 file = "config/cobblemon_smartphone.json"
 hash = "ec67c9183cf6437171c68cf19f1d61a09f93546c04178e2e4d0beacff152c9ff"
+
+[[files]]
+file = "config/cobblemonintegrations-common.toml"
+hash = "900e14df2ed1de2bcae80ac4319220bce7e93e0120fd38e179b9fdbbd9ab3e31"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -91,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -322,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
+metafile = true
+
+[[files]]
+file = "mods/create-mob-spawners.pw.toml"
+hash = "e659ecdb50994668bf743103921430f12c77095f962555a1a37b2dc124fb9d44"
 metafile = true
 
 [[files]]
@@ -637,6 +646,11 @@ metafile = true
 [[files]]
 file = "mods/silents-gems.pw.toml"
 hash = "6cdc49690af67677d47bbe89344ab3bfc7179638ab7d12e9168a5206794fb1d6"
+metafile = true
+
+[[files]]
+file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
+hash = "307a39080394cbe930be57e67fb8dae37601e8f0842da10da10977d261dac07d"
 metafile = true
 
 [[files]]

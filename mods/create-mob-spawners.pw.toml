@@ -1,0 +1,13 @@
+name = "Create: Mob Spawners"
+filename = "create_mob_spawners-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bklciXlt/versions/vC9TW2kX/create_mob_spawners-1.0.0.jar"
+hash-format = "sha512"
+hash = "e18b98499922cc56f88532e89d80fe2530502e98b272400ebd3aa00147f9420bc2e10916a0c35f5c8e9cdc1197824a48600030515ba623445123f76a504e8f8b"
+
+[update]
+[update.modrinth]
+mod-id = "bklciXlt"
+version = "vC9TW2kX"
