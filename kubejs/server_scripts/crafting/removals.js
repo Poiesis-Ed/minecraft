@@ -1,6 +1,8 @@
 ServerEvents.recipes(event => {
   // -- Mekanism -- //
   event.remove({ output: 'mekanism:digital_miner' })
+  event.remove({ output: 'mekanism:dimensional_stabilizer' })
+  event.remove({ output: 'mekanism:upgrade_anchor' })
   event.remove({ output: 'mekanism:mekasuit_helmet' })
   event.remove({ output: 'mekanism:mekasuit_bodyarmor' })
   event.remove({ output: 'mekanism:mekasuit_pants' })

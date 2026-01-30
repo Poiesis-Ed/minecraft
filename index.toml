@@ -190,7 +190,7 @@ hash = "2c3007b8b4f574b7739ebb5860bc968e13b28956e0c716ea8d907ccf39b6be0e"
 
 [[files]]
 file = "kubejs/server_scripts/crafting/removals.js"
-hash = "f0bdccd15ddcc736ab0982927ec684f01a55587737c7f77b3b8f12c692f43d94"
+hash = "afd5d462239e529351b1056046305653024f2e9ec4df9d377828be4f2b8df1da"
 
 [[files]]
 file = "kubejs/server_scripts/crafting/replacements.js"
