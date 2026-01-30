@@ -505,11 +505,6 @@ hash = "c6d69011793e9278c65ba14423fccdbc2421f62676bad2663ba85ad9c386ae28"
 metafile = true
 
 [[files]]
-file = "mods/end-remastered-additions.pw.toml"
-hash = "979f5d8d91d92ea9e5d21f4ccc1643734f30a5b7ed44fa2e02b4ca8eb3778783"
-metafile = true
-
-[[files]]
 file = "mods/ender-storage.pw.toml"
 hash = "302bd3b2339329f655f6bd46c3fe198a3bdd2eff755f9b64b2c1ebc10d3399c0"
 metafile = true
@@ -517,11 +512,6 @@ metafile = true
 [[files]]
 file = "mods/enderio.pw.toml"
 hash = "e11e6cd35a0f81a51e23446659da5be2ca3021a05603f4421ec327b9028e0076"
-metafile = true
-
-[[files]]
-file = "mods/endrem.pw.toml"
-hash = "db22718a1efaf2c691cf3bdddc61b0b06bedff7cb0722aa8b1bdf4f095d116cc"
 metafile = true
 
 [[files]]
