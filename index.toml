@@ -305,11 +305,6 @@ hash = "b3a5fa375e46002ddb4b837d7e83597f985f987ab208a0465bad60b4a2565c03"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
-metafile = true
-
-[[files]]
 file = "mods/blockui.pw.toml"
 hash = "96eab3328337034b9503173a460c1ce11ce1666b9094dcdc05990976985f72c5"
 metafile = true
@@ -977,16 +972,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "0b8161b7e8c71379084080673b304a090e187b1ad45ddc2bb90ebae11f401f6f"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
