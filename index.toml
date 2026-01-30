@@ -210,6 +210,11 @@ hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
 metafile = true
 
 [[files]]
+file = "mods/aces-spell-utils.pw.toml"
+hash = "8917be8f8cac8b4ec443d876d8702df06e5cc7ca2c3ad7a44351dc25dccf6e7b"
+metafile = true
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "834f0a3bf0d7556e1009fb1f23bc77d99dab0704c226d4ce766a78b8838791a7"
 metafile = true
@@ -257,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
 metafile = true
 
 [[files]]
@@ -415,6 +425,11 @@ hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "deb34b621cacd843fa2bfc4ee9d54f9312224a4c2bcc2c024f730908873e7942"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
@@ -447,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/enderio.pw.toml"
 hash = "e11e6cd35a0f81a51e23446659da5be2ca3021a05603f4421ec327b9028e0076"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "6827d3c72c3a6f228e511685970d1257f9f6af2e0558c36872f0ff6aeaef4a20"
 metafile = true
 
 [[files]]
@@ -820,8 +840,18 @@ hash = "da6b31d5077911a19c5aeff87ba9b73f7ca75af9f8a48657b70cc7a4cdb66426"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
@@ -847,6 +877,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "49bccf856ced968a9499d110c302225b7f6d71c415d23f89db44325a72ff638a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "c8b520b6f6a1116833ce2011c49ec6f5569dd110b7a5da98460112c4552fa324"
 metafile = true
 
 [[files]]
