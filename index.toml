@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
@@ -560,6 +560,11 @@ hash = "be5c86940c47192b7f731331b08362bf37174c07f1af6244944731ba8f79805c"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "2e8d41553147e5470a9f31303cb440f106cefde0dfc13c30cf69b8248b70644c"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "3da1b263129f79811a2e675861cf3d13573e4d6bd4fe7f114b1db27bc499503e"
 metafile = true
@@ -607,11 +612,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-snow.pw.toml"
 hash = "759ebd337fa67f558a204baef57041ca0392fd206c786a3e7643a5c6b27f4cee"
-metafile = true
-
-[[files]]
-file = "mods/inventory-tabs.pw.toml"
-hash = "9129ed24edcd489cb9370b9417d5f5ca6563c1d63f1ec7157ee7ef7b379ed296"
 metafile = true
 
 [[files]]
