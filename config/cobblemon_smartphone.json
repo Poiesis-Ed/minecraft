@@ -1,8 +1,8 @@
 {
   "cooldowns": {
     "healButton": 5,
-    "pcButton": 5,
-    "cloudButton": 5
+    "pcButton": 1,
+    "cloudButton": 1
   },
   "features": {
     "enableHeal": true,

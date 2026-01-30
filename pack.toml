@@ -1,12 +1,12 @@
-name = "Mc Dev Pack"
+name = "poiesis"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "08ac885dfee49386e95943fb6b95169bfbaa9c7aec999ec02d9eee8e9e18f4e8"
+hash = "5bd81dac20e558c7eed74189483a468c8b7551c831a8d504faa21201294e4e09"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.216"
+neoforge = "21.1.219"

@@ -1,0 +1,13 @@
+name = "Lootrmon: Lootr & Cobblemon Compatibility"
+filename = "lootrmon-neoforge-1.21.1-0.0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ywwXJDli/versions/1XxjcBEO/lootrmon-neoforge-1.21.1-0.0.0.2.jar"
+hash-format = "sha512"
+hash = "47ee46c5ee1796b8b21041d35a8034a0f4cebc9103e5fc75553edb66f4a28f1aeeccefdb17af69e4a2ab70376fe2fb45b7d40c69423bf2dccd4e08113991b999"
+
+[update]
+[update.modrinth]
+mod-id = "ywwXJDli"
+version = "1XxjcBEO"

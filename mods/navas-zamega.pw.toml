@@ -1,0 +1,13 @@
+name = "[Cobblemon] Navas' ZAmega"
+filename = "zamega-neoforge-1.4.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2V1Y86sc/versions/k6M3zfHw/zamega-neoforge-1.4.7.jar"
+hash-format = "sha512"
+hash = "91c098ec5073432f0ef656b0252cb214ef13e0841b2747ad7f56aa37889db7dd90d81cbcc21e927dd05f811fcf545e5ca2cadeb5b046456c43829be5cdc31288"
+
+[update]
+[update.modrinth]
+mod-id = "2V1Y86sc"
+version = "k6M3zfHw"

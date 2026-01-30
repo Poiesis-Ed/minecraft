@@ -1,0 +1,13 @@
+name = "Oracle Index"
+filename = "oracle_index-neoforge-0.5.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J8MMsNrL/versions/kCIMrYyJ/oracle_index-neoforge-0.5.0.jar"
+hash-format = "sha512"
+hash = "4611739bee36d2c22c957a4af9cfa21e3c2334a36869c37c19633a3b261e960c17e0953fec8c9181f51e1187124ce157acfa9f3984fa7ecac9ecac419d205600"
+
+[update]
+[update.modrinth]
+mod-id = "J8MMsNrL"
+version = "kCIMrYyJ"
