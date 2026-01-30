@@ -730,11 +730,6 @@ hash = "e19ed8c65c7e45a6990a463fcdef1d9c3c6571f7c0dab9e6c23db22b564af766"
 metafile = true
 
 [[files]]
-file = "mods/macaws-biomes-o-plenty.pw.toml"
-hash = "cba980a2d83df3c53e319b7cb08dff9e043d1b3c9ab9d5656848273d72ba63f7"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "c6887c071d6515a39aeb915429304ea9fdae876decde3ad66062c9ba779b16b4"
 metafile = true
