@@ -285,6 +285,11 @@ hash = "574807cedb57ba6360060d6bf4a359cea9d00bf8700caee866d48ab949005b89"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "547660bb17452fae6e46504c87eea9e75eeb50de440495cadcee9ad49c6d131d"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
