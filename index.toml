@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/mpalladium.pw.toml"
-hash = "ecea6722c62bc3eadb6893d75ee941655b0f5378bd463519773f7aff0c368307"
+hash = "30cd1eefdff16a19d2fddb7d9430f6d5584dd9cd5d40618f657ae8fd9cc74f9a"
 metafile = true
 
 [[files]]
