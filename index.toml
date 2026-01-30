@@ -370,6 +370,11 @@ hash = "7e0af0c279dd352fee365638102590425d8dc86c0ee9a5ac3173bc11d88686a0"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-smartphone.pw.toml"
+hash = "483ecd79543259eef30a067387b0cfcf3b6f5eb0d97b219b5ed2587936d3a593"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-spawn-alerts.pw.toml"
 hash = "8312ec317b83effad6b27cd55b1a53576c6eeb0501d58cff0738aba82db32d50"
 metafile = true
