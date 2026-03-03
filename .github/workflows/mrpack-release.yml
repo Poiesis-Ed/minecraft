@@ -14,31 +14,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-
-    - name: Set up Go
-      uses: actions/setup-go@v4
-      with:
-        go-version: '1.24'
-
-    - name: Cache gopath
-      uses: actions/cache@v4
-      id: cache-gopath
-      env:
-        cache-name: gopath-cache
-      with:
-        path: $HOME/go
-        key: ${{ runner.os }}-run-${{ env.cache-name }}
-        restore-keys: |
-          ${{ runner.os }}-run-
-          ${{ runner.os }}-
     
-    - if: ${{ steps.cache-gopath.outputs.cache-hit != 'true' }}
-      name: Install Packwiz
-      continue-on-error: true
-      run: go install github.com/packwiz/packwiz@latest
-      
-    - name: Export mrpack
-      run: packwiz modrinth export --output "poiesis-${{ github.ref_name }}.mrpack"
+    - name: Download CLI
+      run: |
+        curl -sSL -o ./cli https://atlas.nathanm.org/download/cli
+        chmod +x ./cli
+
+    - name: Build mrpack
+      run: ./cli build --format mrpack -o "poiesis-${{ github.ref_name }}.mrpack"
         
     - name: Release
       uses: softprops/action-gh-release@v2
