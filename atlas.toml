@@ -9,7 +9,9 @@ modloader = "neoforge"
 modloader_version = "21.1.219"
 
 [cli]
-pack_id = "poiesis"
+pack_id = "2yr-tnT6S9n_FTFqdMrcI"
 hub_url = "https://atlas.nathanm.org"
 default_channel = "dev"
+
+
 
