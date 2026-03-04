@@ -1,0 +1,15 @@
+[metadata]
+name = "supplementaries-1.21-3.5.26-neoforge.jar"
+side = "both"
+project_url = "https://modrinth.com/project/fFEIiSDQ"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "fFEIiSDQ"
+version = "MSKshgx9"
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/MSKshgx9/supplementaries-1.21-3.5.26-neoforge.jar"
+
+[download.hashes]
+sha1 = "14e5539225e45764200e56091507a9220efda9be"
+sha512 = "5413fa2d34a54475c01fa29ba6cf4b76f4d44834b5ba0ea4eaabb049c9445758cf23cd75591131ce9694d33f15bf1c757ef57d02b73e0aeabebd836838ecb06b"

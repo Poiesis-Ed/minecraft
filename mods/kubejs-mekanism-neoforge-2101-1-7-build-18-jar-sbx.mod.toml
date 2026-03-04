@@ -1,0 +1,15 @@
+[metadata]
+name = "kubejs-mekanism-neoforge-2101.1.7-build.18.jar"
+side = "both"
+project_url = "https://modrinth.com/project/sY2Fy24K"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "sY2Fy24K"
+version = "sbx1D4Jz"
+url = "https://cdn.modrinth.com/data/sY2Fy24K/versions/sbx1D4Jz/kubejs-mekanism-neoforge-2101.1.7-build.18.jar"
+
+[download.hashes]
+sha1 = "e605f4ef57395cb91f4438165c59f8536223ae10"
+sha512 = "c03228f4442db31eb7b9c485a9e2fa5e9b08f0d6faa97a8a0a905d8f8169e7efe8c04fbf82dcf3f8d5a8a46c280a54d8a608bf9897786fa8819d857af1a17e54"

@@ -1,0 +1,15 @@
+[metadata]
+name = "enderio-8.1.1-beta.jar"
+side = "both"
+project_url = "https://modrinth.com/project/49ZofO4f"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "49ZofO4f"
+version = "JZapEEvP"
+url = "https://cdn.modrinth.com/data/49ZofO4f/versions/JZapEEvP/enderio-8.1.1-beta.jar"
+
+[download.hashes]
+sha1 = "26b7d074e56ea950a61aa077d37f5194ea7b95ff"
+sha512 = "bdd4beef038b2c345edd03dbbacf00d97ce662646ba05c4f5fd977f4b7886053e2b4d1cdef42dba4c46b0ec364c7c8e1e319c4e97b8706420e99a0139538354a"

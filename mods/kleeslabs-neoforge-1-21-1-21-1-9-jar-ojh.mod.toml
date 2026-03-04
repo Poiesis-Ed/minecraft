@@ -1,0 +1,15 @@
+[metadata]
+name = "kleeslabs-neoforge-1.21.1-21.1.9.jar"
+side = "both"
+project_url = "https://modrinth.com/project/7uh75ruZ"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "7uh75ruZ"
+version = "OJhWT28x"
+url = "https://cdn.modrinth.com/data/7uh75ruZ/versions/OJhWT28x/kleeslabs-neoforge-1.21.1-21.1.9.jar"
+
+[download.hashes]
+sha1 = "a0465e484f35a15aca7da817ae48b07adc53de55"
+sha512 = "2289d8f508aeb27a8762761c541a0cde7fe8f1eab3df739a5d9691936c0324cb6baa83237a78f3dc65a4cd532f19e2f685c566621091da9145ddd41b0d0690e1"

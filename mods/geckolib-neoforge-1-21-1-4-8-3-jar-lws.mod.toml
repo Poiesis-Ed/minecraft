@@ -1,0 +1,15 @@
+[metadata]
+name = "geckolib-neoforge-1.21.1-4.8.3.jar"
+side = "both"
+project_url = "https://modrinth.com/project/8BmcQJ2H"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "8BmcQJ2H"
+version = "lWsXauBN"
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/lWsXauBN/geckolib-neoforge-1.21.1-4.8.3.jar"
+
+[download.hashes]
+sha1 = "fb0ac6ad63dc5f401c15c66a037c08e9709d1c42"
+sha512 = "4b8f3bcdc04450aa97af136353341f136921259f16f2363f3cfe77956860455f27c38f9701b3f0e8a78ea86067411ecd35d391803b753276934057481e770556"

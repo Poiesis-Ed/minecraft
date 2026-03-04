@@ -1,0 +1,15 @@
+[metadata]
+name = "stonezone-1.21-2.11.11-neoforge.jar"
+side = "both"
+project_url = "https://modrinth.com/project/uYwn8IP5"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "uYwn8IP5"
+version = "n0tKS3j0"
+url = "https://cdn.modrinth.com/data/uYwn8IP5/versions/n0tKS3j0/stonezone-1.21-2.11.11-neoforge.jar"
+
+[download.hashes]
+sha1 = "eb710b7968cf1977648ce4f2a3ecd87d46909499"
+sha512 = "fe95b85031550e830129a8adb989ec5adbc074a7403c5e2737afc9b1316bc1ddaa9b97525bb1060892bcb0e9de23e4cc7d94da2f68d9adff29204f829a3fcaac"

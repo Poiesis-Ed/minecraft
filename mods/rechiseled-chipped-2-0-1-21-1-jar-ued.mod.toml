@@ -1,0 +1,15 @@
+[metadata]
+name = "rechiseled_chipped-2.0-1.21.1.jar"
+side = "both"
+project_url = "https://modrinth.com/project/ryYcxeeA"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "ryYcxeeA"
+version = "UEdISMbk"
+url = "https://cdn.modrinth.com/data/ryYcxeeA/versions/UEdISMbk/rechiseled_chipped-2.0-1.21.1.jar"
+
+[download.hashes]
+sha1 = "bed4eb5415d67251ba6b0eca5d56eb0f5963a265"
+sha512 = "4cd04802d016f1751e5388f878954ad278a3f453e54b09354efc306ded7bbd99002f3db88fcf470d57c5e918e1486426a9014e7c9ed99ff4187276567615d4d0"

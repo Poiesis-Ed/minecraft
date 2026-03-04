@@ -1,0 +1,20 @@
+[metadata]
+name = "1219748"
+side = "both"
+project_url = "https://www.curseforge.com/minecraft/mc-mods/1219748"
+disabled_client_oses = []
+
+[compat]
+minecraft = ["1.21.1"]
+loaders = ["neoforge"]
+loader_versions = ["21.1.219"]
+
+[download]
+source = "curseforge"
+project_id = "1219748"
+version = "[1.21.1] Flight API v1.1.1"
+file_id = "6891762"
+url = "https://edge.forgecdn.net/files/6891/762/flightapi-neoforge-1.1.1.jar"
+
+[download.hashes]
+sha1 = "722ee6bd3793571591e47da88d479c63ed486f26"

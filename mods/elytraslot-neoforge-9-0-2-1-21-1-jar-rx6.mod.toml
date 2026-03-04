@@ -1,0 +1,15 @@
+[metadata]
+name = "elytraslot-neoforge-9.0.2+1.21.1.jar"
+side = "both"
+project_url = "https://modrinth.com/project/mSQF1NpT"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "mSQF1NpT"
+version = "RX6A02W1"
+url = "https://cdn.modrinth.com/data/mSQF1NpT/versions/RX6A02W1/elytraslot-neoforge-9.0.2%2B1.21.1.jar"
+
+[download.hashes]
+sha1 = "8ac6cf959fe66399aa7e86b6e6f933e07d155b7e"
+sha512 = "257af1e8de11634c561e617ac64ce2c452aebd86bd0a6ba2c4d164cee9746a30c093aa5e913d553b34ae4c235d5b17b40e5f95db18f2fea8f6e6361bd405d819"

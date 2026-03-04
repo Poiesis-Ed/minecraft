@@ -1,0 +1,28 @@
+[metadata]
+name = "298744"
+side = "both"
+project_url = "https://www.curseforge.com/minecraft/mc-mods/298744"
+disabled_client_oses = []
+
+[compat]
+minecraft = ["1.21.1"]
+loaders = ["neoforge"]
+loader_versions = ["21.1.219"]
+
+[[compat.requires]]
+source = "curseforge"
+project_id = "522992"
+
+[[compat.requires]]
+source = "curseforge"
+project_id = "527361"
+
+[download]
+source = "curseforge"
+project_id = "298744"
+version = "structurize-1.0.816-1.21.1.jar"
+file_id = "7690600"
+url = "https://edge.forgecdn.net/files/7690/600/structurize-1.0.816-1.21.1.jar"
+
+[download.hashes]
+sha1 = "93eb166f12461adbaa1dc83bcb24b2162868d2d0"

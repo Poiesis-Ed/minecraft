@@ -1,0 +1,15 @@
+[metadata]
+name = "amendments-1.21-2.0.15-neoforge.jar"
+side = "both"
+project_url = "https://modrinth.com/project/6iTJugQR"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "6iTJugQR"
+version = "8xf6Wpxs"
+url = "https://cdn.modrinth.com/data/6iTJugQR/versions/8xf6Wpxs/amendments-1.21-2.0.15-neoforge.jar"
+
+[download.hashes]
+sha1 = "00056f29646f3bf86116b281c2362c0dabdb4533"
+sha512 = "a9ea5029cb4788e9e1dae8ed94f05e9111754e064d41fcd6bf7e570c28106dc1e680d2f2e82324b87a0a154a3d714bbdf2425124a62cba4765c41c1097d1609a"

@@ -1,0 +1,20 @@
+[metadata]
+name = "522992"
+side = "both"
+project_url = "https://www.curseforge.com/minecraft/mc-mods/522992"
+disabled_client_oses = []
+
+[compat]
+minecraft = ["1.21.1"]
+loaders = ["neoforge"]
+loader_versions = ["21.1.219"]
+
+[download]
+source = "curseforge"
+project_id = "522992"
+version = "blockui-1.0.210-1.21.1-snapshot.jar"
+file_id = "7606199"
+url = "https://edge.forgecdn.net/files/7606/199/blockui-1.0.210-1.21.1-snapshot.jar"
+
+[download.hashes]
+sha1 = "08e3479772b1528d0b922e82fe1e91613aedde45"

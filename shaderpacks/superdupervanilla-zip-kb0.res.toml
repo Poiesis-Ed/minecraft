@@ -1,0 +1,15 @@
+[metadata]
+name = "superDuperVanilla.zip"
+side = "client"
+project_url = "https://modrinth.com/project/LMIZZNxZ"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "LMIZZNxZ"
+version = "KB0sOLSc"
+url = "https://cdn.modrinth.com/data/LMIZZNxZ/versions/KB0sOLSc/superDuperVanilla.zip"
+
+[download.hashes]
+sha1 = "f2d6d259368e8b8d8807abb1ac28aaa7cff85b8c"
+sha512 = "231b47716d5dab68fd1409c65750589c234d4d63312b3f8634342477686ae6db88edb9ecc3c5662fca245e71b16f16e2933e50751d13d5b06e7d3e26f8d9ebaf"

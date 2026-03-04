@@ -1,0 +1,15 @@
+[metadata]
+name = "moonlight-1.21-2.29.18-neoforge.jar"
+side = "both"
+project_url = "https://modrinth.com/project/twkfQtEc"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "twkfQtEc"
+version = "XhoYMFiP"
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/XhoYMFiP/moonlight-1.21-2.29.18-neoforge.jar"
+
+[download.hashes]
+sha1 = "514e6fa03a4c0c6fc9aa622001a114ab9d289066"
+sha512 = "e3272203326dd0d374209232daa985441813de33a231fcecd217b8bad3654cef905fb2793a8f9092c92e36a77a9357ea9b63a7c09a9fc95f7f2a9f4940246e86"

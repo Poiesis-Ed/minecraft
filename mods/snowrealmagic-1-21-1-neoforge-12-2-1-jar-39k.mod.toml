@@ -1,0 +1,15 @@
+[metadata]
+name = "SnowRealMagic-1.21.1-NeoForge-12.2.1.jar"
+side = "both"
+project_url = "https://modrinth.com/project/iJNje1E8"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "iJNje1E8"
+version = "39KBx8YI"
+url = "https://cdn.modrinth.com/data/iJNje1E8/versions/39KBx8YI/SnowRealMagic-1.21.1-NeoForge-12.2.1.jar"
+
+[download.hashes]
+sha1 = "eb1094ad9dbf9d95cf876c102f998119a54cf44e"
+sha512 = "c83b6ae690fc8acb95eb30249de6487dfd73031178032211d493c7010f0c50529d74cffe52ea168c068f3ece829f320336e265b106988c06efcf6094f35dac2e"

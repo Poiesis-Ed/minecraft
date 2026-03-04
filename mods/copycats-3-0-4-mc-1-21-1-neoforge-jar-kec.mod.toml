@@ -1,0 +1,15 @@
+[metadata]
+name = "copycats-3.0.4+mc.1.21.1-neoforge.jar"
+side = "both"
+project_url = "https://modrinth.com/project/UT2M39wf"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "UT2M39wf"
+version = "kecZ0sl7"
+url = "https://cdn.modrinth.com/data/UT2M39wf/versions/kecZ0sl7/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar"
+
+[download.hashes]
+sha1 = "6a11d5806bcf521e08faba1ee6ef5f31af55ca0f"
+sha512 = "ecc98e659be66a71af0aee66a9f4c7c8838f4f0101402644929079ce7280a572a000e7e417905e1869a51d6e49ebbd601008f54585e07ee4ed01f2c4bc752bfe"

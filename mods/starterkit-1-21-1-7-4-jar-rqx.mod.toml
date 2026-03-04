@@ -1,0 +1,15 @@
+[metadata]
+name = "starterkit-1.21.1-7.4.jar"
+side = "both"
+project_url = "https://modrinth.com/project/6L3ydNi8"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "6L3ydNi8"
+version = "RQxn2aC4"
+url = "https://cdn.modrinth.com/data/6L3ydNi8/versions/RQxn2aC4/starterkit-1.21.1-7.4.jar"
+
+[download.hashes]
+sha1 = "3b858e9298c6d01e9aaeb97025eeaec80c25a2c7"
+sha512 = "302e822e83a50369a508de6b69f4153eea7b8015e0b78fa554425ea031f449f77f4c2d96c8f1aa892f8f747a24e77b60753cf0a3bf7d27887d056440e5712301"

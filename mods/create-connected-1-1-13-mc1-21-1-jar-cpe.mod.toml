@@ -1,0 +1,15 @@
+[metadata]
+name = "create_connected-1.1.13-mc1.21.1.jar"
+side = "both"
+project_url = "https://modrinth.com/project/Vg5TIO6d"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "Vg5TIO6d"
+version = "cpErBxbD"
+url = "https://cdn.modrinth.com/data/Vg5TIO6d/versions/cpErBxbD/create_connected-1.1.13-mc1.21.1.jar"
+
+[download.hashes]
+sha1 = "59314285929fb405e667a1dd8d1c32cddbd69a18"
+sha512 = "e7fe213615cf888b09c28ed88fcb2379d537ad610435764f5338af2460c9decd40248848d7dbee1686ff1729e54068aee15a6583d8e3bbaacfb37de60badb96f"

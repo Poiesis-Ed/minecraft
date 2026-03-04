@@ -1,0 +1,20 @@
+[metadata]
+name = "527361"
+side = "both"
+project_url = "https://www.curseforge.com/minecraft/mc-mods/527361"
+disabled_client_oses = []
+
+[compat]
+minecraft = ["1.21.1"]
+loaders = ["neoforge"]
+loader_versions = ["21.1.219"]
+
+[download]
+source = "curseforge"
+project_id = "527361"
+version = "domum-ornamentum - 1.0.228 - release"
+file_id = "7585527"
+url = "https://edge.forgecdn.net/files/7585/527/domum-ornamentum-1.0.228-main.jar"
+
+[download.hashes]
+sha1 = "6ab4c505b3adb81b3576074a548e21a4bb780a7a"

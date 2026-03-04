@@ -1,0 +1,28 @@
+[metadata]
+name = "303278"
+side = "both"
+project_url = "https://www.curseforge.com/minecraft/mc-mods/303278"
+disabled_client_oses = []
+
+[compat]
+minecraft = ["1.21.1"]
+loaders = ["neoforge"]
+loader_versions = ["21.1.219"]
+
+[[compat.requires]]
+source = "curseforge"
+project_id = "298744"
+
+[[compat.requires]]
+source = "curseforge"
+project_id = "522992"
+
+[download]
+source = "curseforge"
+project_id = "303278"
+version = "multipiston-1.2.58-1.21.1.jar"
+file_id = "7097877"
+url = "https://edge.forgecdn.net/files/7097/877/multipiston-1.2.58-1.21.1.jar"
+
+[download.hashes]
+sha1 = "2b63be739da24247328e4052ec91c928230d0390"

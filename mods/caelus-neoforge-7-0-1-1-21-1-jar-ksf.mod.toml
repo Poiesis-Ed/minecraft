@@ -1,0 +1,15 @@
+[metadata]
+name = "caelus-neoforge-7.0.1+1.21.1.jar"
+side = "both"
+project_url = "https://modrinth.com/project/40FYwb4z"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "40FYwb4z"
+version = "KsfI4QsR"
+url = "https://cdn.modrinth.com/data/40FYwb4z/versions/KsfI4QsR/caelus-neoforge-7.0.1%2B1.21.1.jar"
+
+[download.hashes]
+sha1 = "e4c2e1af4e3082d68f7df75f7c8ce30116d71515"
+sha512 = "3763f95304ade2bacb217828c74eeef7905a114f71d41537d56121af58c182c2685467a5afb7e03ddb3997ec3d7496bdfdf71a9946a9f33e3470393e7a13306d"

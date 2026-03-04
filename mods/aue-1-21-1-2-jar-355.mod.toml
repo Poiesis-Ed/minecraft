@@ -1,0 +1,15 @@
+[metadata]
+name = "aue-1.21-1.2.jar"
+side = "both"
+project_url = "https://modrinth.com/project/wwGOjWgR"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "wwGOjWgR"
+version = "355ZNiqi"
+url = "https://cdn.modrinth.com/data/wwGOjWgR/versions/355ZNiqi/aue-1.21-1.2.jar"
+
+[download.hashes]
+sha1 = "3e69c80773b1c0ef7a5c46c7e51cc03ad81726a8"
+sha512 = "58d4210e4f0ae3db0504772489c9f34fcd79c0728ed4df9ee449e674ece800c7b29e4cf14a94a8b09ae265ccd1a950859fb2e23ab0bc63b97c58ef27d91c5dad"

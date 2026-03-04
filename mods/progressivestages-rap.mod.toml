@@ -1,0 +1,14 @@
+[metadata]
+name = "ProgressiveStages"
+side = "both"
+project_url = "https://modrinth.com/mod/progressivestages"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "rY4mdP4Q"
+version = "rapvT37D"
+url = "https://cdn.modrinth.com/data/rY4mdP4Q/versions/rapvT37D/progressivestages-1.2.jar"
+
+[download.hashes]
+sha512 = "d27548ed6909f99840e421c2efd626f6536053c96a38847566b3f4faef604ee82467a7c5c68b8bbeaf62519a2ead78120fc972fcd877b2fbc41a067cd4951343"

@@ -1,0 +1,15 @@
+[metadata]
+name = "torchmaster-neoforge-1.21.1-21.1.9.jar"
+side = "both"
+project_url = "https://modrinth.com/project/Tl8ESrhX"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "Tl8ESrhX"
+version = "PhWXajPC"
+url = "https://cdn.modrinth.com/data/Tl8ESrhX/versions/PhWXajPC/torchmaster-neoforge-1.21.1-21.1.9.jar"
+
+[download.hashes]
+sha1 = "3f565ecc8560eba3ae3e15ff6542a3025d7377a2"
+sha512 = "855dd7f37a01c617dddcb5fe569b14a14cff4d5ea7f53a958bec4a694eb4b82677160a2509a84a03e41adea2d44617434667f56f2191e6427811ddbdc63e48fc"

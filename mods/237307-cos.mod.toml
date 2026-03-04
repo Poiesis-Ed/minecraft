@@ -1,0 +1,20 @@
+[metadata]
+name = "237307"
+side = "both"
+project_url = "https://www.curseforge.com/minecraft/mc-mods/237307"
+disabled_client_oses = []
+
+[compat]
+minecraft = ["1.21.1"]
+loaders = ["neoforge"]
+loader_versions = ["21.1.219"]
+
+[download]
+source = "curseforge"
+project_id = "237307"
+version = "cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
+file_id = "5610814"
+url = "https://edge.forgecdn.net/files/5610/814/cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
+
+[download.hashes]
+sha1 = "5f1e699cd0888b857ec63f01adaeb3571848bfea"

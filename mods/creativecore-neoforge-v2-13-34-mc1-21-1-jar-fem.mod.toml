@@ -1,0 +1,15 @@
+[metadata]
+name = "CreativeCore_NEOFORGE_v2.13.34_mc1.21.1.jar"
+side = "both"
+project_url = "https://modrinth.com/project/OsZiaDHq"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "OsZiaDHq"
+version = "fEMKr02l"
+url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/fEMKr02l/CreativeCore_NEOFORGE_v2.13.34_mc1.21.1.jar"
+
+[download.hashes]
+sha1 = "60d7a74976b99dab4639c0c511fb4d132c812b2e"
+sha512 = "9ae623dda0e0aacc4fb6beef78794e7312da1675fff464b8ea77fb84e4ed39f272c0a18150f7b4243cd80752214254d9b6c130b45c419a1e8a50621939f86a08"

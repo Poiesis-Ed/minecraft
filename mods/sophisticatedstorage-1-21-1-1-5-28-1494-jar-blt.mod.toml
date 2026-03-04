@@ -1,0 +1,15 @@
+[metadata]
+name = "sophisticatedstorage-1.21.1-1.5.28.1494.jar"
+side = "both"
+project_url = "https://modrinth.com/project/hMlaZH8f"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "hMlaZH8f"
+version = "BLT4pvsT"
+url = "https://cdn.modrinth.com/data/hMlaZH8f/versions/BLT4pvsT/sophisticatedstorage-1.21.1-1.5.28.1494.jar"
+
+[download.hashes]
+sha1 = "a5eb8e4a41daa54e231ffd3d637d26ad99f73fa0"
+sha512 = "04b7d13b149d1428dd5f369ce2c0fb48ed0bcf23ac42b89422130caca86ade425059bc7fc6b8ef655517b469af35a3a03ae8da1eafbc05e60f63c0a71882757e"

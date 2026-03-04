@@ -1,0 +1,15 @@
+[metadata]
+name = "vista-1.21-3.0.6-neoforge.jar"
+side = "both"
+project_url = "https://modrinth.com/project/zuARv1N7"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "zuARv1N7"
+version = "N3lnXM3u"
+url = "https://cdn.modrinth.com/data/zuARv1N7/versions/N3lnXM3u/vista-1.21-3.0.6-neoforge.jar"
+
+[download.hashes]
+sha1 = "d893dae19e589c9e2a9b988ce262d0ac7b039278"
+sha512 = "058847326b2d1e35e0e08fcdf928d4f50f9ca05376915149f49a4b853a57c0ee296f975e60e450d4a1e1b7131a3ec1b9f59e83a1d3c8d72cd7600574d47b84f6"

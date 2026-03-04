@@ -1,0 +1,40 @@
+[metadata]
+name = "245506"
+side = "both"
+project_url = "https://www.curseforge.com/minecraft/mc-mods/245506"
+disabled_client_oses = []
+
+[compat]
+minecraft = ["1.21.1"]
+loaders = ["neoforge"]
+loader_versions = ["21.1.219"]
+
+[[compat.requires]]
+source = "curseforge"
+project_id = "900364"
+
+[[compat.requires]]
+source = "curseforge"
+project_id = "303278"
+
+[[compat.requires]]
+source = "curseforge"
+project_id = "527361"
+
+[[compat.requires]]
+source = "curseforge"
+project_id = "522992"
+
+[[compat.requires]]
+source = "curseforge"
+project_id = "298744"
+
+[download]
+source = "curseforge"
+project_id = "245506"
+version = "minecolonies-1.1.1282-1.21.1-snapshot.jar"
+file_id = "7700086"
+url = "https://edge.forgecdn.net/files/7700/86/minecolonies-1.1.1282-1.21.1-snapshot.jar"
+
+[download.hashes]
+sha1 = "c5e6908f93588f8aa19d59172e0c03edfe9e990d"

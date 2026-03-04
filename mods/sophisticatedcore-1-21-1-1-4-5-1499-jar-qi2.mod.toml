@@ -1,0 +1,15 @@
+[metadata]
+name = "sophisticatedcore-1.21.1-1.4.5.1499.jar"
+side = "both"
+project_url = "https://modrinth.com/project/nmoqTijg"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "nmoqTijg"
+version = "qi2pvRvC"
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/qi2pvRvC/sophisticatedcore-1.21.1-1.4.5.1499.jar"
+
+[download.hashes]
+sha1 = "fb75fe25d174b9c72246d805038b5d49b1d865fa"
+sha512 = "abed32b266c999ee4e3989ef9570102f93b92ec9af8dcdc46feef8ccb8f5858284706f2d783480450657452fed0175b3a8c742407a4412fade0f71dbfdfba493"

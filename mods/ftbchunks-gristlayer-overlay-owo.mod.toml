@@ -1,0 +1,14 @@
+[metadata]
+name = "FTBChunks - Gristlayer Overlay"
+side = "both"
+project_url = "https://modrinth.com/mod/ftbchunks-gristlayer-overlay"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "NateHHTl"
+version = "owOAyODS"
+url = "https://cdn.modrinth.com/data/NateHHTl/versions/owOAyODS/gristlayermap-1.2.0.jar"
+
+[download.hashes]
+sha512 = "7206a62a51b31c8fe73159186f5c8ce8143e1ce54f2e1b680a2106caebfe2efc341bad8ece91d1e88629795bd0d7cc1cff49ee29178de4b8c0a07b63350edc3a"

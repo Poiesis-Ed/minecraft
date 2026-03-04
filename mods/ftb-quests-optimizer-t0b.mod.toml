@@ -1,0 +1,14 @@
+[metadata]
+name = "FTB Quests Optimizer"
+side = "both"
+project_url = "https://modrinth.com/mod/ftb-quests-optimizer"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "oPwMsrcf"
+version = "T0bGa7Hg"
+url = "https://cdn.modrinth.com/data/oPwMsrcf/versions/T0bGa7Hg/FTBQuestsOptimizer-neoforge-3.2.0-1.21.1.jar"
+
+[download.hashes]
+sha512 = "06f26506641451d733bbe6ae3db3abe026b6483738fcff67e39d762740ceeb1feafc11c45720246bcf8a5cd91a3cbba1bf50110bf1e89e1f3fcc10202ed29891"

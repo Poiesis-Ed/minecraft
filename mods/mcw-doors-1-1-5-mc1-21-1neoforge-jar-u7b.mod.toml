@@ -1,0 +1,15 @@
+[metadata]
+name = "mcw-doors-1.1.5-mc1.21.1neoforge.jar"
+side = "both"
+project_url = "https://modrinth.com/project/kNxa8z3e"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "kNxa8z3e"
+version = "u7BRX44F"
+url = "https://cdn.modrinth.com/data/kNxa8z3e/versions/u7BRX44F/mcw-doors-1.1.5-mc1.21.1neoforge.jar"
+
+[download.hashes]
+sha1 = "c127904f23db1a641dd9e065ec51c5c177cb4cd7"
+sha512 = "43ddf00be46af91c009a95392a094f05017155214c46c7980042cbcf871864dc792416497019e688eb558897c87848bd70c282ec4a6d7b268e1ba30389ba987a"

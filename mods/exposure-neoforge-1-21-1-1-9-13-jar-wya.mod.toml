@@ -1,0 +1,15 @@
+[metadata]
+name = "exposure-neoforge-1.21.1-1.9.13.jar"
+side = "both"
+project_url = "https://modrinth.com/project/hB899VmG"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "hB899VmG"
+version = "WYaaE1QE"
+url = "https://cdn.modrinth.com/data/hB899VmG/versions/WYaaE1QE/exposure-neoforge-1.21.1-1.9.13.jar"
+
+[download.hashes]
+sha1 = "dbee05b7a892d70acfd3d4c45494a9407bdedcfe"
+sha512 = "4df1c6a6b52794a64826a247d5ca33cb50f94d83e11b5a20ca90ffc84c85021f522040cf0602231f196d08106069f72507049051a418ff111cad0b24d3e49d7a"

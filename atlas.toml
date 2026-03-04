@@ -1,0 +1,15 @@
+[metadata]
+name = "poiesis"
+version = "0.1.0"
+description = "Atlas modpack"
+
+[versions]
+mc = "1.21.1"
+modloader = "neoforge"
+modloader_version = "21.1.219"
+
+[cli]
+pack_id = "poiesis"
+hub_url = "https://atlas.nathanm.org"
+default_channel = "dev"
+

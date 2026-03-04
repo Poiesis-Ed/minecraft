@@ -1,0 +1,15 @@
+[metadata]
+name = "everycomp-1.21-2.11.28-neoforge.jar"
+side = "both"
+project_url = "https://modrinth.com/project/eiktJyw1"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "eiktJyw1"
+version = "kh933o4T"
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/kh933o4T/everycomp-1.21-2.11.28-neoforge.jar"
+
+[download.hashes]
+sha1 = "48934c34481cb0ce2249875ae67760377f1a372c"
+sha512 = "2698f3df0a3a27c9e96ecadf37e10f7aea79d3b1dbc8b525a411086d7bad150820807fba18c77e7be7da6de2883fbffd1b7e56f1ddb97614559f5daccbd2b661"

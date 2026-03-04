@@ -1,0 +1,15 @@
+[metadata]
+name = "FarmersDelight-1.21.1-1.2.10.jar"
+side = "both"
+project_url = "https://modrinth.com/project/R2OftAxM"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "R2OftAxM"
+version = "EVaDSbPj"
+url = "https://cdn.modrinth.com/data/R2OftAxM/versions/EVaDSbPj/FarmersDelight-1.21.1-1.2.10.jar"
+
+[download.hashes]
+sha1 = "93f4de62fce2b90ee8c87e4f6d9b82edb132003d"
+sha512 = "9c7bf1df38efe6167622938ecd9fcc9d2fb38de7457f3ef4ec189409a2268fd783c2e4a64c3da80ba67a463bb72c841f6510a57eadc88a078e44a085c299fa62"

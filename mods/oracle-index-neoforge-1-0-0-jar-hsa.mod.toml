@@ -1,0 +1,15 @@
+[metadata]
+name = "oracle_index-neoforge-1.0.0.jar"
+side = "both"
+project_url = "https://modrinth.com/project/J8MMsNrL"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "J8MMsNrL"
+version = "HSaXPPcR"
+url = "https://cdn.modrinth.com/data/J8MMsNrL/versions/HSaXPPcR/oracle_index-neoforge-1.0.0.jar"
+
+[download.hashes]
+sha1 = "5d3c1c2a372986fbb6494cf1b477d0cd31abba33"
+sha512 = "e629854fb9531d77cc37cf3464319910e9ac59f52d19e0f3a56afd9522727a632c947e4f3b3889f7067e3f0e3056b845380ace695ca34e6dca1e98bd58e8fc3b"

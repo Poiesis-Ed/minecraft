@@ -1,0 +1,15 @@
+[metadata]
+name = "EnchantingInfuser-v21.1.3-1.21.1-NeoForge.jar"
+side = "both"
+project_url = "https://modrinth.com/project/ePv85y52"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "ePv85y52"
+version = "yDca44W2"
+url = "https://cdn.modrinth.com/data/ePv85y52/versions/yDca44W2/EnchantingInfuser-v21.1.3-1.21.1-NeoForge.jar"
+
+[download.hashes]
+sha1 = "849dd049f5fd7a0b5264c26541504a913e84c51a"
+sha512 = "0a1c3921e27a9f90c5c891405ffbef49c97c18fdf5e0df0d17ae4b1992eb1aad070f8dd0c114dbb555d78adc5d3661dfaa236dd2c3a7a74283454798bc75b5bf"

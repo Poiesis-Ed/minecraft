@@ -1,0 +1,15 @@
+[metadata]
+name = "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar"
+side = "both"
+project_url = "https://modrinth.com/project/C7I0BCni"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "C7I0BCni"
+version = "rQUE4LCz"
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/rQUE4LCz/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar"
+
+[download.hashes]
+sha1 = "eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c"
+sha512 = "7628aa390a689a211013e5856cca1c695729b1faa7e20da16fa1f8a3822d5b569631829e91222caa8f1b27c4a7d28ab49110502551551216de2fb471b6f2549f"

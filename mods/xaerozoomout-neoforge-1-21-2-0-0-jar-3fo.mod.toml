@@ -1,0 +1,15 @@
+[metadata]
+name = "XaeroZoomout-NeoForge-1.21-2.0.0.jar"
+side = "both"
+project_url = "https://modrinth.com/project/T6oqPfxF"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "T6oqPfxF"
+version = "3fOhT5TB"
+url = "https://cdn.modrinth.com/data/T6oqPfxF/versions/3fOhT5TB/XaeroZoomout-NeoForge-1.21-2.0.0.jar"
+
+[download.hashes]
+sha1 = "e0f98bc1ecbacb987eeabb829d6d7d20ff8bba4e"
+sha512 = "14bd6060d16308d2dea89ce20c485025092789b83f00efb406f0becd4090d6ad31519d02c019fc20c73eb07827b5d74f5146f4d3e4e32af2f51154e1c768de95"

@@ -1,0 +1,15 @@
+[metadata]
+name = "MekanismTools-1.21.1-10.7.18.84.jar"
+side = "both"
+project_url = "https://modrinth.com/project/tqQpq1lt"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "tqQpq1lt"
+version = "JJOd94IZ"
+url = "https://cdn.modrinth.com/data/tqQpq1lt/versions/JJOd94IZ/MekanismTools-1.21.1-10.7.18.84.jar"
+
+[download.hashes]
+sha1 = "4d38e616afeb6d6be0ec7bcd6a23d45f351b6b3d"
+sha512 = "62c4b078eff787736d0cbcbeea1dd9ce6acfd4c7e1671c80607d1ab08c276133fb1d85ba467c44d1d203bd9893d8de514a3faa39afbed208397fcc263981d6ea"

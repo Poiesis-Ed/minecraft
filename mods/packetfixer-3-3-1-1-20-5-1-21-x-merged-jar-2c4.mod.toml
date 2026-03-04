@@ -1,0 +1,15 @@
+[metadata]
+name = "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+side = "both"
+project_url = "https://modrinth.com/project/c7m1mi73"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "c7m1mi73"
+version = "2C41Q8WX"
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/2C41Q8WX/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+
+[download.hashes]
+sha1 = "a8bb6e25807682e72c23bf4065f3cd5f6373ece3"
+sha512 = "d0acfaa6ef394fc7d9e677022bda06a6c8be7851ba8860897999775b657b5e10878578fe626505b0c9dbc01d26f559dbb1214aabb081d076824648047094e2e1"

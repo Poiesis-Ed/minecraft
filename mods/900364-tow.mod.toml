@@ -1,0 +1,20 @@
+[metadata]
+name = "900364"
+side = "both"
+project_url = "https://www.curseforge.com/minecraft/mc-mods/900364"
+disabled_client_oses = []
+
+[compat]
+minecraft = ["1.21.1"]
+loaders = ["neoforge"]
+loader_versions = ["21.1.219"]
+
+[download]
+source = "curseforge"
+project_id = "900364"
+version = "TownTalk 1.21 1.2.0"
+file_id = "5653504"
+url = "https://edge.forgecdn.net/files/5653/504/towntalk-1.2.0.jar"
+
+[download.hashes]
+sha1 = "6866d898938bdde1a17fadee16983c0c6071eac6"

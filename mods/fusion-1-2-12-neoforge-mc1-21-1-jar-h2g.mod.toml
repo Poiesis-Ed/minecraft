@@ -1,0 +1,15 @@
+[metadata]
+name = "fusion-1.2.12-neoforge-mc1.21.1.jar"
+side = "both"
+project_url = "https://modrinth.com/project/p19vrgc2"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "p19vrgc2"
+version = "h2GrA0Ku"
+url = "https://cdn.modrinth.com/data/p19vrgc2/versions/h2GrA0Ku/fusion-1.2.12-neoforge-mc1.21.1.jar"
+
+[download.hashes]
+sha1 = "d86f641b67d4b01d99da8424ba2a3edc0e6690b6"
+sha512 = "50604fa4125e846b659479a8bb8bcef5db47460a8185902b8655d8b12c6cc67eb3cc4c08fee45e82a6b215976bea2a480e32ce420f062cea88abe17cb362365c"

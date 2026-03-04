@@ -1,0 +1,20 @@
+[metadata]
+name = "1219737"
+side = "both"
+project_url = "https://www.curseforge.com/minecraft/mc-mods/1219737"
+disabled_client_oses = []
+
+[compat]
+minecraft = ["1.21.1"]
+loaders = ["neoforge"]
+loader_versions = ["21.1.219"]
+
+[download]
+source = "curseforge"
+project_id = "1219737"
+version = "[1.21.1] HaydenAPI v1.0.4"
+file_id = "6302841"
+url = "https://edge.forgecdn.net/files/6302/841/haydenapi-neoforge-1.0.4.jar"
+
+[download.hashes]
+sha1 = "1def897f47edc4fd38cbb1955b7c9c842e002d08"

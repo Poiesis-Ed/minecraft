@@ -1,0 +1,14 @@
+[metadata]
+name = "Shoulder Surfing Ultimine"
+side = "client"
+project_url = "https://modrinth.com/mod/shoulder-surfing-ultimine"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "2p6cOvlM"
+version = "JWyeJ7Oy"
+url = "https://cdn.modrinth.com/data/2p6cOvlM/versions/JWyeJ7Oy/shouldersurfingultimine-1.0.1%2B1.21.1-neoforge.jar"
+
+[download.hashes]
+sha512 = "32026b7dddb645b2ddef3a22eff6e7dbb120da7f50ced39bd66d97a346785d312f1c1319ca7698e06421b652d93886bf2b849ad5718560e42483d5007a059aef"

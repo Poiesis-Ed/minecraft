@@ -1,0 +1,15 @@
+[metadata]
+name = "Kiwi-1.21.1-NeoForge-15.8.3.jar"
+side = "both"
+project_url = "https://modrinth.com/project/ufdDoWPd"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "ufdDoWPd"
+version = "2flHQIzv"
+url = "https://cdn.modrinth.com/data/ufdDoWPd/versions/2flHQIzv/Kiwi-1.21.1-NeoForge-15.8.3.jar"
+
+[download.hashes]
+sha1 = "042592fb37494fb566ae43881fc3aeecd4880f50"
+sha512 = "3d0168a9189adf81002533421d183d83f75c30523be5499416ee430288e10175df0d43027435600f4c49d5fffffd0f78b86b2bef5bd67f82b1c494ba2f8b5536"

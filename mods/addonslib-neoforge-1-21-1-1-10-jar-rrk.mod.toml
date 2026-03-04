@@ -1,0 +1,15 @@
+[metadata]
+name = "addonslib-neoforge-1.21.1-1.10.jar"
+side = "both"
+project_url = "https://modrinth.com/project/cl5ec0Qm"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "cl5ec0Qm"
+version = "rRKPlFV5"
+url = "https://cdn.modrinth.com/data/cl5ec0Qm/versions/rRKPlFV5/addonslib-neoforge-1.21.1-1.10.jar"
+
+[download.hashes]
+sha1 = "16ff192afe3249a4fae754a8fc134bd07a58b8c4"
+sha512 = "72155a40cbc0f6ceb22b5b1d84f826eb06d6dccf8052307cd69f1f1688ca7eead0d7beaca467730ed78b534de57828150fc04ae0f464810c81a6ad83b8c493b5"

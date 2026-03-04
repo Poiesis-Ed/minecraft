@@ -1,0 +1,14 @@
+[metadata]
+name = "BlockLife"
+side = "both"
+project_url = "https://modrinth.com/mod/blocklife"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "cUxZCJ1w"
+version = "DVBpJGvD"
+url = "https://cdn.modrinth.com/data/cUxZCJ1w/versions/DVBpJGvD/blocklife-1.3.0-forge-1.20.1.jar"
+
+[download.hashes]
+sha512 = "34a70b94723408af15c0458f1357deaabf97ebdb7fd971aa4cf8038d9059aa64a7f5359061d8511a12b4bab25cfc48a34557ae52dfbe3cbc8364fc7d276d4171"
